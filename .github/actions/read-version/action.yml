@@ -1,0 +1,45 @@
+name: Read the version
+description: >-
+  Reads the Wally version CoffeeBuildr writes into Version.txt, checks that
+  wally.toml has the same one and works the API version back from it.
+
+outputs:
+  wally:
+    description: The Wally version, e.g. 745.0.7451137 (or 745.0.7451137-rc.1)
+    value: ${{ steps.read.outputs.wally }}
+  api:
+    description: The Roblox API version, e.g. 0.745.0.7451137 (or 0.745.0.7451137-rc.1)
+    value: ${{ steps.read.outputs.api }}
+  prerelease:
+    description: Whether the version has a pre-release postfix (e.g. -rc.1, -alpha), "true" or "false"
+    value: ${{ steps.read.outputs.prerelease }}
+
+runs:
+  using: composite
+  steps:
+    - id: read
+      shell: bash
+      run: |
+        wally_version="$(tr -d '[:space:]' < Version.txt)"
+        # an optional pre-release postfix: dot separated identifiers of letters, digits & hyphens
+        # (what Wally's semver parser takes, CoffeeBuildr's WallyVersionComply checks the details)
+        if ! [[ "$wally_version" =~ ^([0-9]+)\.([0-9]+)\.([0-9]+)(-[0-9A-Za-z-]+(\.[0-9A-Za-z-]+)*)?$ ]]; then
+          echo "::error::Version.txt holds '$wally_version', not a Wally version (e.g. 745.0.7451137 or 745.0.7451137-rc.1)"
+          exit 1
+        fi
+        # the reverse of CoffeeBuildr's WallyVersionComply: the Wally major is major * 1000000 + minor,
+        # the postfix stays as it is
+        head="${BASH_REMATCH[1]}"
+        postfix="${BASH_REMATCH[4]}"
+        api_version="$((head / 1000000)).$((head % 1000000)).${BASH_REMATCH[2]}.${BASH_REMATCH[3]}$postfix"
+
+        manifest_version="$(sed -nE 's/^version *= *"([^"]+)".*/\1/p' wally.toml | head -n 1)"
+        if [ "$manifest_version" != "$wally_version" ]; then
+          echo "::error::wally.toml has version $manifest_version, but Version.txt has $wally_version"
+          exit 1
+        fi
+
+        echo "wally=$wally_version" >> "$GITHUB_OUTPUT"
+        echo "api=$api_version" >> "$GITHUB_OUTPUT"
+        echo "prerelease=$([ -n "$postfix" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+        echo "API@$api_version is Wally@$wally_version"

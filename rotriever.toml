@@ -1,0 +1,8 @@
+[package]
+name = "coffilhg/classnametypepairsclientingamecreatableextended"
+author = "Coffilhg"
+content_root = "src"
+version = "0.0.0"
+license = "Unlicense"
+
+[dependencies]

@@ -1,0 +1,65 @@
+name: Wally publish
+
+# After a merge into main that changes Version.txt (CoffeeBuildr writes it),
+# publishes that version to Wally. A version Wally has already is skipped,
+# so this can be run again by hand (Actions > Wally publish > Run workflow).
+on:
+  push:
+    branches: [main]
+    paths: [Version.txt]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: wally-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    # only main's version gets published, even when it's run by hand on another branch
+    if: github.ref == 'refs/heads/main'
+    # WALLY_AUTH_TOKEN is a secret of this environment, which only lets runs on main use it
+    # (Settings > Environments > wally > Deployment branches and tags: main)
+    environment: wally
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - id: version
+        uses: ./.github/actions/read-version
+
+      - name: Check whether Wally has it already
+        id: registry
+        run: |
+          package="$(sed -nE 's/^name *= *"([^"]+)".*/\1/p' wally.toml | head -n 1)"
+          # a package that was never published answers with an error, which means "not published"
+          metadata="$(curl -sSf "https://api.wally.run/v1/package-metadata/$package" || true)"
+          # a fixed string with both quotes: 745.0.1 isn't published just because 745.0.1-rc.1 is
+          if grep -qF "\"version\":\"${{ steps.version.outputs.wally }}\"" <<< "$metadata"; then
+            echo "published=true" >> "$GITHUB_OUTPUT"
+            echo "$package@${{ steps.version.outputs.wally }} is on Wally already, nothing to publish"
+          else
+            echo "published=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Install Wally
+        if: steps.registry.outputs.published == 'false'
+        run: |
+          curl -sSfL -o "$RUNNER_TEMP/wally.zip" https://github.com/UpliftGames/wally/releases/download/v0.3.2/wally-v0.3.2-linux.zip
+          unzip -q "$RUNNER_TEMP/wally.zip" -d "$RUNNER_TEMP/wally"
+          chmod +x "$RUNNER_TEMP/wally/wally"
+          echo "$RUNNER_TEMP/wally" >> "$GITHUB_PATH"
+
+      - name: Publish
+        if: steps.registry.outputs.published == 'false'
+        env:
+          WALLY_AUTH_TOKEN: ${{ secrets.WALLY_AUTH_TOKEN }}
+        run: |
+          if [ -z "$WALLY_AUTH_TOKEN" ]; then
+            echo "::error::The repository secret WALLY_AUTH_TOKEN isn't set"
+            exit 1
+          fi
+          wally login --token "$WALLY_AUTH_TOKEN"
+          wally publish

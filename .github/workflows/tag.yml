@@ -1,0 +1,43 @@
+name: Tag
+
+# After a merge into main that changes Version.txt (CoffeeBuildr writes it),
+# tags that commit as v{wallyVersion}, which is what Rotriever installs from.
+# A version that's tagged already is skipped, so this can be run again by
+# hand (Actions > Tag > Run workflow).
+on:
+  push:
+    branches: [main]
+    paths: [Version.txt]
+  workflow_dispatch:
+
+permissions:
+  contents: write # to push the tag
+
+concurrency:
+  group: tag
+  cancel-in-progress: false
+
+jobs:
+  tag:
+    # only main's version gets tagged, even when it's run by hand on another branch
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # every tag, to tell whether this version is tagged already
+
+      - id: version
+        uses: ./.github/actions/read-version
+
+      - name: Tag
+        run: |
+          tag="v${{ steps.version.outputs.wally }}"
+          if git rev-parse -q --verify "refs/tags/$tag" > /dev/null; then
+            echo "$tag exists already, nothing to tag"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag -a "$tag" -m "Update API@${{ steps.version.outputs.api }}"
+          git push origin "$tag"
