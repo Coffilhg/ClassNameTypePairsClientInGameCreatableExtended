@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.493.0.4930373 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/e2f897cfde9233afa16a8a2cc63c57be71e067a9/API-Dump.json>)
+Generated using Version 0.494.0.4940339 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/fe5c7aec6090638a0391e0d84e597057c9ff8730/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/e2f897cfde9233afa16a8a2cc63c57be71e067a9>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/fe5c7aec6090638a0391e0d84e597057c9ff8730>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -65,6 +65,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CorePackages
 - CoreScript
 - CoreScriptSyncService
+- CustomDspSoundEffect
 - DataModel
 - DataModelMesh
 - DataModelSession
@@ -145,7 +146,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LegacyStudioBridge
 - Light
 - Lighting
-- LinearVelocityConstraint
 - LocalStorageService
 - LocalizationService
 - LogService
@@ -155,6 +155,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LuaWebService
 - ManualSurfaceJointInstance
 - MarketplaceService
+- MaterialService
 - MemStorageConnection
 - MemStorageService
 - MemoryStoreQueue
