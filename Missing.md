@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.494.0.4940339 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/fe5c7aec6090638a0391e0d84e597057c9ff8730/API-Dump.json>)
+Generated using Version 0.495.0.4950267 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/5658854ac5e63648463d1b93eff2becb9e6dbd6d/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/fe5c7aec6090638a0391e0d84e597057c9ff8730>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/5658854ac5e63648463d1b93eff2becb9e6dbd6d>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -85,6 +85,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DebuggerConnection
 - DebuggerConnectionManager
 - DebuggerManager
+- DebuggerVariable
 - DockWidgetPluginGui
 - DraftsService
 - DraggerService
@@ -260,6 +261,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - SoundService
 - SpawnerService
 - Speaker
+- StackFrame
 - StandardPages
 - StarterCharacterScripts
 - StarterGui
