@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.499.0.4990382 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/34e566315362d5d47a206cc28d07313336e5c8b1/API-Dump.json>)
+Generated using Version 0.500.0.5000375 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/15c13df40679b8bf9b0bc654fe89ecaa8f63db9e/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/34e566315362d5d47a206cc28d07313336e5c8b1>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/15c13df40679b8bf9b0bc654fe89ecaa8f63db9e>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -41,6 +41,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BevelMesh
 - BodyMover
 - Breakpoint
+- BreakpointManager
 - BrowserService
 - BulkImportService
 - CSGCacheService
@@ -88,6 +89,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DebuggerConnectionManager
 - DebuggerLuaResponse
 - DebuggerManager
+- DebuggerUIService
 - DebuggerVariable
 - DockWidgetPluginGui
 - DraftsService
@@ -168,6 +170,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MessageBusConnection
 - MessageBusService
 - MessagingService
+- MetaBreakpoint
+- MetaBreakpointContext
 - Mouse
 - MouseService
 - MultipleDocumentInterfaceInstance
@@ -245,6 +249,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - RunningAverageItemInt
 - RunningAverageTimeIntervalItem
 - RuntimeScriptService
+- ScriptChangeService
 - ScriptContext
 - ScriptDebugger
 - ScriptService
@@ -274,8 +279,10 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Status
 - StopWatchReporter
 - Studio
+- StudioAssetService
 - StudioData
 - StudioDeviceEmulatorService
+- StudioScriptDebugEventListener
 - StudioService
 - StudioTheme
 - TaskScheduler
@@ -292,6 +299,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ThreadState
 - TimerService
 - ToastNotificationService
+- ToolboxService
 - TotalCountTimeIntervalItem
 - TouchInputService
 - TouchTransmitter
