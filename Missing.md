@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.398.0.332127 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f0de4937ed694b24f06b7170dc320d4dc654f64b/API-Dump.json>)
+Generated using Version 0.399.0.334382 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/20f9aa6700f86777a5a3b1e75e2b3d370bafdbb2/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f0de4937ed694b24f06b7170dc320d4dc654f64b>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/20f9aa6700f86777a5a3b1e75e2b3d370bafdbb2>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -50,6 +50,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CoreScriptSyncService
 - DataModel
 - DataModelMesh
+- DataModelSession
 - DataStorePages
 - DataStoreService
 - Debris
@@ -109,6 +110,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LuaSettings
 - LuaSourceContainer
 - LuaWebService
+- MDIInstance
 - ManualSurfaceJointInstance
 - MarketplaceService
 - MemStorageConnection
