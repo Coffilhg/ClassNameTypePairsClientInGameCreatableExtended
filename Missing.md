@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.404.0.346082 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/227cd31d8613f51a0891c18c28c7dcb2cb68d871/API-Dump.json>)
+Generated using Version 0.405.0.348052 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/808e09276666542dc23c36d9f26a0d327ddb757f/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/227cd31d8613f51a0891c18c28c7dcb2cb68d871>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/808e09276666542dc23c36d9f26a0d327ddb757f>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -226,6 +226,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TriangleMeshPart
 - TweenBase
 - TweenService
+- UGCValidationService
 - UIBase
 - UIComponent
 - UIConstraint
