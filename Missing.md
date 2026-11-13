@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.484.0.425477 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/63f767b2d723ef9d0e152ab10edd51e9dffad7e9/API-Dump.json>)
+Generated using Version 0.485.0.425755 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/89afe54d4e4c1d450b4ec1d68e48b26198d6b9c9/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/63f767b2d723ef9d0e152ab10edd51e9dffad7e9>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/89afe54d4e4c1d450b4ec1d68e48b26198d6b9c9>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -26,7 +26,11 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AppUpdateService
 - AssetCounterService
 - AssetDeliveryProxy
+- AssetImportItemSettings
+- AssetImportMeshSettings
 - AssetImportService
+- AssetImportSettings
+- AssetImportTextureSettings
 - AssetManagerService
 - AssetService
 - AvatarEditorService
@@ -39,6 +43,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BaseWrap
 - BevelMesh
 - BodyMover
+- Breakpoint
 - BrowserService
 - BulkImportService
 - CacheableContentProvider
@@ -78,6 +83,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Debris
 - DebugSettings
 - DebuggerBreakpoint
+- DebuggerConnection
+- DebuggerConnectionManager
 - DebuggerManager
 - DockWidgetPluginGui
 - DraftsService
@@ -85,6 +92,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DynamicRotate
 - EmotesPages
 - EventIngestService
+- Expression
 - FaceInstance
 - Feature
 - File
@@ -171,6 +179,9 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PartAdornment
 - Path
 - PathfindingService
+- PausedState
+- PausedStateBreakpoint
+- PausedStateException
 - PermissionsService
 - PhysicsService
 - PhysicsSettings
@@ -212,6 +223,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReflectionMetadataMember
 - ReflectionMetadataProperties
 - ReflectionMetadataYieldFunctions
+- RemoteDebuggerServer
 - RenderSettings
 - ReplicatedFirst
 - ReplicatedScriptService
@@ -225,6 +237,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - RuntimeScriptService
 - ScriptContext
 - ScriptDebugger
+- ScriptRef
 - ScriptService
 - Selection
 - SelectionLasso
@@ -263,6 +276,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TextFilterResult
 - TextService
 - ThirdPartyUserService
+- ThreadState
 - TimerService
 - ToastNotificationService
 - TotalCountTimeIntervalItem
