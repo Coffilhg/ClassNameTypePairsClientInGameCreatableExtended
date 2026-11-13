@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.496.0.4960343 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/5b34f0320c3675a4be2fd8e82abb02961bdb7070/API-Dump.json>)
+Generated using Version 0.497.0.4970359 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f1f140699f9847bc0ac54a2d1c92f4caeb306016/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/5b34f0320c3675a4be2fd8e82abb02961bdb7070>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f1f140699f9847bc0ac54a2d1c92f4caeb306016>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -21,6 +21,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AdService
 - AnalysticsSettings
 - AnalyticsService
+- AnimationClip
 - AnimationTrack
 - AppStorageService
 - AppUpdateService
@@ -42,6 +43,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Breakpoint
 - BrowserService
 - BulkImportService
+- CSGCacheService
 - CacheableContentProvider
 - CalloutService
 - CatalogPages
@@ -84,6 +86,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DebuggerBreakpoint
 - DebuggerConnection
 - DebuggerConnectionManager
+- DebuggerLuaResponse
 - DebuggerManager
 - DebuggerVariable
 - DockWidgetPluginGui
@@ -243,9 +246,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - RuntimeScriptService
 - ScriptContext
 - ScriptDebugger
-- ScriptRef
-- ScriptRefId
-- ScriptRefPath
 - ScriptService
 - Selection
 - SelectionLasso
