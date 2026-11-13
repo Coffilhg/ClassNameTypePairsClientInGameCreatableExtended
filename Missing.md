@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.501.0.5010363 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/a1a530d5906044bb0a464c10486ae49932bec5fe/API-Dump.json>)
+Generated using Version 0.502.0.5020362 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/44abc833d6ccd764865e76057aff52ac585cfc7d/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/a1a530d5906044bb0a464c10486ae49932bec5fe>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/44abc833d6ccd764865e76057aff52ac585cfc7d>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -22,6 +22,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AnalysticsSettings
 - AnalyticsService
 - AnimationClip
+- AnimationClipProvider
 - AnimationTrack
 - AppStorageService
 - AppUpdateService
@@ -72,6 +73,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CustomDspSoundEffect
 - DataModel
 - DataModelMesh
+- DataModelPatchService
 - DataModelSession
 - DataStore
 - DataStoreInfo
@@ -160,6 +162,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LuaSettings
 - LuaSourceContainer
 - LuaWebService
+- LuauScriptAnalyzerService
 - ManualSurfaceJointInstance
 - MarketplaceService
 - MaterialService
@@ -189,6 +192,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PVInstance
 - PackageLink
 - PackageService
+- PackageUIService
 - Pages
 - PartAdornment
 - Path
@@ -291,6 +295,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TeleportAsyncResult
 - TeleportService
 - TemporaryCageMeshProvider
+- TemporaryScriptService
 - Terrain
 - TextChatService
 - TextFilterResult
