@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.512.0.5120419 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/9c2f21e783ac0d8744df61b9e30faac7eaf1bb2e/API-Dump.json>)
+Generated using Version 0.513.0.5130419 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/454b654941a4d9f87593ba9052db9601b0bac980/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/9c2f21e783ac0d8744df61b9e30faac7eaf1bb2e>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/454b654941a4d9f87593ba9052db9601b0bac980>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -24,6 +24,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AnimationClip
 - AnimationClipProvider
 - AnimationFromVideoCreatorService
+- AnimationFromVideoCreatorStudioService
 - AnimationTrack
 - AppStorageService
 - AppUpdateService
@@ -261,6 +262,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - RunningAverageTimeIntervalItem
 - RuntimeScriptService
 - ScriptChangeService
+- ScriptCloneWatcher
+- ScriptCloneWatcherHelper
 - ScriptContext
 - ScriptDebugger
 - ScriptRegistrationService
@@ -294,6 +297,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StudioAssetService
 - StudioData
 - StudioDeviceEmulatorService
+- StudioHighDpiService
 - StudioPublishService
 - StudioScriptDebugEventListener
 - StudioService
@@ -306,6 +310,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TemporaryScriptService
 - Terrain
 - TextBoxService
+- TextChatMessage
 - TextChatService
 - TextFilterResult
 - TextService
@@ -339,6 +344,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ValueBase
 - VersionControlService
 - VirtualUser
+- VisibilityService
 - Visit
 - VoiceChannel
 - VoiceChatInternal
