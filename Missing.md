@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.483.1.425021 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/34a789bebbd385c24e4e963f0ac161c0a303305b/API-Dump.json>)
+Generated using Version 0.484.0.425477 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/63f767b2d723ef9d0e152ab10edd51e9dffad7e9/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/34a789bebbd385c24e4e963f0ac161c0a303305b>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/63f767b2d723ef9d0e152ab10edd51e9dffad7e9>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -26,6 +26,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AppUpdateService
 - AssetCounterService
 - AssetDeliveryProxy
+- AssetImportService
 - AssetManagerService
 - AssetService
 - AvatarEditorService
@@ -50,6 +51,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Clothing
 - ClusterPacketCache
 - CollectionService
+- CommandInstance
+- CommandService
 - Constraint
 - ContentProvider
 - ContextActionService
