@@ -2,13 +2,15 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.399.0.334382 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/20f9aa6700f86777a5a3b1e75e2b3d370bafdbb2/API-Dump.json>)
+Generated using Version 0.400.0.336387 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/3958bb63971f6c84d533f9a5d1069eec4088cb38/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/20f9aa6700f86777a5a3b1e75e2b3d370bafdbb2>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/3958bb63971f6c84d533f9a5d1069eec4088cb38>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
-### *The current thread cannot create '{ClassName}' (lacking capability Plugin)* ~ PluginAction
+### The current thread cannot create '{ClassName}' (lacking capability Plugin)
+- PluginAction
+- StandalonePluginScripts
 ### The current thread cannot create '{ClassName}' (lacking capability RobloxEngine)
 - CSGDictionaryService
 - FlyweightService
