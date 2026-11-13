@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.462.0.416719 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/a0ef3eca5fee9bbb6d0082272f3ad533fece8fce/API-Dump.json>)
+Generated using Version 0.463.0.417004 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f867742be117235b24b2be7500eada1d20ba42f3/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/a0ef3eca5fee9bbb6d0082272f3ad533fece8fce>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f867742be117235b24b2be7500eada1d20ba42f3>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -62,11 +62,14 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DataModelMesh
 - DataModelSession
 - DataStore
+- DataStoreEnumerationPages
+- DataStoreInfo
 - DataStoreKeyInfo
 - DataStoreKeyPages
 - DataStoreKeyVersionInfo
 - DataStorePages
 - DataStoreService
+- DataStoreVersionPages
 - Debris
 - DebugSettings
 - DebuggerBreakpoint
@@ -108,6 +111,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - HttpRequest
 - HttpService
 - ILegacyStudioBridge
+- IXPService
 - InputObject
 - InsertService
 - Instance
@@ -146,6 +150,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - NetworkServer
 - NetworkSettings
 - NotificationService
+- ObjectVersionInfo
 - OrderedDataStore
 - OutfitPages
 - PVAdornment
