@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.452.2.413165 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/6a9aaa9d1e9b3d27d381ca4113987b3882ff3b6f/API-Dump.json>)
+Generated using Version 0.454.0.413308 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/8746fc4607d2c55033601ff7a500eaac5da0fe47/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/6a9aaa9d1e9b3d27d381ca4113987b3882ff3b6f>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/8746fc4607d2c55033601ff7a500eaac5da0fe47>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -100,6 +100,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - HttpRbxApiService
 - HttpRequest
 - HttpService
+- ILegacyStudioBridge
 - InputObject
 - InsertService
 - Instance
@@ -112,6 +113,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - KeyframeSequenceProvider
 - LanguageService
 - LayerCollector
+- LegacyStudioBridge
 - Light
 - Lighting
 - LocalStorageService
@@ -138,6 +140,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - NetworkSettings
 - NotificationService
 - OrderedDataStore
+- OutfitPages
 - PVAdornment
 - PVInstance
 - PackageLink
@@ -236,6 +239,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TotalCountTimeIntervalItem
 - TouchInputService
 - TouchTransmitter
+- TracerService
 - Translator
 - TriangleMeshPart
 - TweenBase
