@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.366.0.265730 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f2fc6e87a4ad6d6c1079b43bd0d653ed43156a2e/API-Dump.json>)
+Generated using Version 0.367.0.269547 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/ab38fcb3ce9e8dcc2caa0601b8b1f1c95f336948/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f2fc6e87a4ad6d6c1079b43bd0d653ed43156a2e>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/ab38fcb3ce9e8dcc2caa0601b8b1f1c95f336948>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -29,7 +29,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BaseScript
 - BevelMesh
 - BodyMover
-- Button
 - ButtonBindingWidget
 - CacheableContentProvider
 - ChangeHistoryService
@@ -94,7 +93,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - InputObject
 - InsertService
 - Instance
-- InstancePacketCache
 - InventoryPages
 - JointInstance
 - JointsService
@@ -113,6 +111,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ManualSurfaceJointInstance
 - MarketplaceService
 - MeshContentProvider
+- MessagingService
 - Mouse
 - MouseService
 - NetworkClient
@@ -145,6 +144,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PluginManager
 - PluginMenu
 - PluginMouse
+- PluginToolbar
+- PluginToolbarButton
 - PointsService
 - PostEffect
 - QWidgetPluginGui
@@ -205,7 +206,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TextService
 - ThirdPartyUserService
 - TimerService
-- Toolbar
 - TotalCountTimeIntervalItem
 - TouchInputService
 - TouchTransmitter
