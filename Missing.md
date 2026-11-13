@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.488.0.427318 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/37161a4846dfb8beeaad536205bc2c0138ae8a29/API-Dump.json>)
+Generated using Version 0.489.0.4890336 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/d65ea715467c49305589c23229513907cf1a9c6c/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/37161a4846dfb8beeaad536205bc2c0138ae8a29>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/d65ea715467c49305589c23229513907cf1a9c6c>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -72,11 +72,12 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DataModelMesh
 - DataModelSession
 - DataStore
-- DataStoreEnumerationPages
 - DataStoreInfo
+- DataStoreKey
 - DataStoreKeyInfo
 - DataStoreKeyPages
-- DataStoreKeyVersionInfo
+- DataStoreListingPages
+- DataStoreObjectVersionInfo
 - DataStorePages
 - DataStoreService
 - DataStoreVersionPages
@@ -105,7 +106,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - GamepadService
 - GenericSettings
 - Geometry
-- GetDataStoreOptions
 - GlobalDataStore
 - GlobalSettings
 - GoogleAnalyticsConfiguration
@@ -168,7 +168,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - NetworkServer
 - NetworkSettings
 - NotificationService
-- ObjectVersionInfo
 - OrderedDataStore
 - OutfitPages
 - PVAdornment
