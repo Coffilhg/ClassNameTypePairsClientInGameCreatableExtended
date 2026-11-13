@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.490.0.4900359 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/570cf044f6c0c4705309717b16648d72897ad9e7/API-Dump.json>)
+Generated using Version 0.491.0.4910402-rc.1 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f0f4ea1992e1ad5aa071de4e4e7a73ac282cd2d4/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/570cf044f6c0c4705309717b16648d72897ad9e7>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f0f4ea1992e1ad5aa071de4e4e7a73ac282cd2d4>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -26,11 +26,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AppUpdateService
 - AssetCounterService
 - AssetDeliveryProxy
-- AssetImportItemSettings
-- AssetImportMeshSettings
 - AssetImportService
-- AssetImportSettings
-- AssetImportTextureSettings
 - AssetManagerService
 - AssetService
 - AvatarEditorService
@@ -93,7 +89,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DynamicRotate
 - EmotesPages
 - EventIngestService
-- Expression
 - FaceInstance
 - Feature
 - File
@@ -129,6 +124,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - IXPService
 - ImporterBaseSettings
 - ImporterGroupSettings
+- ImporterJointSettings
 - ImporterMeshSettings
 - ImporterRootSettings
 - ImporterTextureSettings
@@ -163,6 +159,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MemoryStoreQueue
 - MemoryStoreSortedMap
 - MeshContentProvider
+- MessageBusConnection
+- MessageBusService
 - MessagingService
 - Mouse
 - MouseService
