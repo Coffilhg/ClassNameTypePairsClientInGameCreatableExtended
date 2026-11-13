@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.498.0.4980398 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/4bc377f54b39dc5e13b90c4cced8939ab89254dd/API-Dump.json>)
+Generated using Version 0.499.0.4990382 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/34e566315362d5d47a206cc28d07313336e5c8b1/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/4bc377f54b39dc5e13b90c4cced8939ab89254dd>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/34e566315362d5d47a206cc28d07313336e5c8b1>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -177,7 +177,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - NetworkReplicator
 - NetworkServer
 - NetworkSettings
-- NewVoiceChatService
 - NotificationService
 - OrderedDataStore
 - OutfitPages
@@ -283,6 +282,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Teams
 - TeleportAsyncResult
 - TeleportService
+- TemporaryCageMeshProvider
 - Terrain
 - TextChatService
 - TextFilterResult
@@ -317,6 +317,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VersionControlService
 - VirtualUser
 - Visit
+- VoiceChatInternal
 - VoiceChatService
 - VoiceSource
 - Workspace
