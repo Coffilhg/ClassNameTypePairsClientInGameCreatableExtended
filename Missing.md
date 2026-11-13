@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.370.0.274702 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/3b9decced841304e70e48a6cf8c0d7e110431189/API-Dump.json>)
+Generated using Version 0.371.0.276568 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/1f37102edf99225e2c3a89e68a740d7cca7ce695/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/3b9decced841304e70e48a6cf8c0d7e110431189>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/1f37102edf99225e2c3a89e68a740d7cca7ce695>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -29,6 +29,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BaseScript
 - BevelMesh
 - BodyMover
+- BrowserService
 - ButtonBindingWidget
 - CacheableContentProvider
 - ChangeHistoryService
