@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.513.1.5130422 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/81333135a9f0d9af327cf70cb6a428375e74a7a1/API-Dump.json>)
+Generated using Version 0.514.0.5140398 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/0eb13389360cf523627635018dd5628d722a7e9c/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/81333135a9f0d9af327cf70cb6a428375e74a7a1>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/0eb13389360cf523627635018dd5628d722a7e9c>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -54,6 +54,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ChannelSelectorSoundEffect
 - CharacterAppearance
 - Chat
+- ChatInputBarConfiguration
+- ChatWindowConfiguration
 - ClientReplicator
 - Clothing
 - ClusterPacketCache
@@ -139,6 +141,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ImporterBaseSettings
 - ImporterGroupSettings
 - ImporterJointSettings
+- ImporterMaterialSettings
 - ImporterMeshSettings
 - ImporterRootSettings
 - ImporterTextureSettings
@@ -310,6 +313,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TemporaryScriptService
 - Terrain
 - TextBoxService
+- TextChatConfigurations
 - TextChatMessage
 - TextChatService
 - TextFilterResult
