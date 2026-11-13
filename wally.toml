@@ -1,7 +1,7 @@
 [package]
 name = "coffilhg/classnametypepairsclientingamecreatableextended"
 description = "Useful for adding Types to Functions & Type Functions, inspired by reactive UIs on Roblox!"
-version = "496.0.4960343"
+version = "497.0.4970359"
 license = "Unlicense"
 authors = ["Coffilhg <coffilhg@gmail.com>"]
 repository = "https://github.com/Coffilhg/ClassNameTypePairsClientInGameCreatableExtended"
