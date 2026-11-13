@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.371.0.276568 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/1f37102edf99225e2c3a89e68a740d7cca7ce695/API-Dump.json>)
+Generated using Version 0.372.0.278233 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/181235cbd2e47ac89483deb40607d88580ff286c/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/1f37102edf99225e2c3a89e68a740d7cca7ce695>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/181235cbd2e47ac89483deb40607d88580ff286c>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -20,6 +20,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AnalysticsSettings
 - AnalyticsService
 - AnimationTrack
+- AntiAddictionService
 - AppStorageService
 - AssetService
 - BackpackItem
@@ -61,6 +62,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DynamicRotate
 - FaceInstance
 - Feature
+- File
 - FlagStandService
 - FormFactorPart
 - FriendPages
@@ -102,7 +104,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LayerCollector
 - Light
 - Lighting
-- LocalAsset
 - LocalStorageService
 - LocalizationService
 - LogService
