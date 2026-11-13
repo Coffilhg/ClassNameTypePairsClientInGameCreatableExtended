@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.489.0.4890336 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/d65ea715467c49305589c23229513907cf1a9c6c/API-Dump.json>)
+Generated using Version 0.490.0.4900359 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/570cf044f6c0c4705309717b16648d72897ad9e7/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/d65ea715467c49305589c23229513907cf1a9c6c>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/570cf044f6c0c4705309717b16648d72897ad9e7>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -127,6 +127,11 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - HttpService
 - ILegacyStudioBridge
 - IXPService
+- ImporterBaseSettings
+- ImporterGroupSettings
+- ImporterMeshSettings
+- ImporterRootSettings
+- ImporterTextureSettings
 - IncrementalPatchBuilder
 - InputObject
 - InsertService
@@ -143,6 +148,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LegacyStudioBridge
 - Light
 - Lighting
+- LinearVelocityConstraint
 - LocalStorageService
 - LocalizationService
 - LogService
@@ -305,6 +311,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VersionControlService
 - VirtualUser
 - Visit
+- VoiceChatService
 - VoiceSource
 - Workspace
 - WorldRoot
