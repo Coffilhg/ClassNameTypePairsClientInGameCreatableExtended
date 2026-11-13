@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.413.0.368698 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/97d87dc10cf6e48d9610733de8ca74e7e4cd3529/API-Dump.json>)
+Generated using Version 0.415.0.373700 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/8be0141a1693803f00f4a85444226b08e9412c4b/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/97d87dc10cf6e48d9610733de8ca74e7e4cd3529>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/8be0141a1693803f00f4a85444226b08e9412c4b>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -137,7 +137,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PartAdornment
 - Path
 - PathfindingService
-- PhysicsPacketCache
 - PhysicsService
 - PhysicsSettings
 - Platform
