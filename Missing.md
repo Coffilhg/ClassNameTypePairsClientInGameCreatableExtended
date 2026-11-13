@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.407.0.353595 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/5ec5b6f2405bb5930d08975495516b07ee133770/API-Dump.json>)
+Generated using Version 0.408.0.355772 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/7cec8093a93617cd4b680111d8001d113aad7b14/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/5ec5b6f2405bb5930d08975495516b07ee133770>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/7cec8093a93617cd4b680111d8001d113aad7b14>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -112,7 +112,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LuaSettings
 - LuaSourceContainer
 - LuaWebService
-- MDIInstance
 - ManualSurfaceJointInstance
 - MarketplaceService
 - MemStorageConnection
@@ -121,6 +120,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MessagingService
 - Mouse
 - MouseService
+- MultipleDocumentInterfaceInstance
 - NetworkClient
 - NetworkMarker
 - NetworkPeer
