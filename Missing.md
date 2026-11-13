@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.454.0.413308 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/8746fc4607d2c55033601ff7a500eaac5da0fe47/API-Dump.json>)
+Generated using Version 0.455.0.413788 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/2c884db8aad1c886202487448fbb6bb683efa6ec/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/8746fc4607d2c55033601ff7a500eaac5da0fe47>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/2c884db8aad1c886202487448fbb6bb683efa6ec>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -23,7 +23,9 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AnalyticsService
 - AnimationTrack
 - AppStorageService
+- AppUpdateService
 - AssetCounterService
+- AssetDeliveryProxy
 - AssetManagerService
 - AssetService
 - AvatarEditorService
@@ -171,6 +173,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PluginToolbarButton
 - PointsService
 - PolicyService
+- PoseBase
 - PostEffect
 - QWidgetPluginGui
 - RbxAnalyticsService
