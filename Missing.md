@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.509.0.5090219 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/b65ee4d6f23399012ff0903cea60f4337f4688c0/API-Dump.json>)
+Generated using Version 0.511.0.5110267 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/309fb2b44a1cd758acb6cd0887aa0fc1de60df5d/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/b65ee4d6f23399012ff0903cea60f4337f4688c0>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/309fb2b44a1cd758acb6cd0887aa0fc1de60df5d>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -71,6 +71,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CorePackages
 - CoreScript
 - CoreScriptSyncService
+- CrossDMScriptChangeListener
 - CustomDspSoundEffect
 - DataModel
 - DataModelMesh
@@ -157,6 +158,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LegacyStudioBridge
 - Light
 - Lighting
+- LocalDebuggerConnection
 - LocalStorageService
 - LocalizationService
 - LodDataEntity
