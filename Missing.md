@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.463.0.417004 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f867742be117235b24b2be7500eada1d20ba42f3/API-Dump.json>)
+Generated using Version 0.464.0.417415 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/8be68e727fbb1245b69ed69e0f7162ff5a38d536/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f867742be117235b24b2be7500eada1d20ba42f3>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/8be68e727fbb1245b69ed69e0f7162ff5a38d536>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -91,6 +91,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - GamepadService
 - GenericSettings
 - Geometry
+- GetDataStoreOptions
 - GlobalDataStore
 - GlobalSettings
 - GoogleAnalyticsConfiguration
