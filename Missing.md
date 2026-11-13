@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.474.0.420553 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/194bdf8f1c0cb2f4b7236abc05ed2bfbe4694817/API-Dump.json>)
+Generated using Version 0.475.0.420862 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/64f6b437833ccfd2b563cfc7738f65032bd40e20/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/194bdf8f1c0cb2f4b7236abc05ed2bfbe4694817>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/64f6b437833ccfd2b563cfc7738f65032bd40e20>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -142,6 +142,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MemStorageConnection
 - MemStorageService
 - MemoryStoreQueue
+- MemoryStoreSortedMap
 - MeshContentProvider
 - MessagingService
 - Mouse
@@ -190,6 +191,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PolicyService
 - PoseBase
 - PostEffect
+- PublishService
 - QWidgetPluginGui
 - RbxAnalyticsService
 - ReflectionMetadata
