@@ -2,10 +2,11 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.421.0.385673 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/681f34d3bc32ea5256a9baef2591c9f90564c946/API-Dump.json>)
+Generated using Version 0.422.0.388145 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/07640877aaf07f048d90de33d8cddf14554dbf99/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/681f34d3bc32ea5256a9baef2591c9f90564c946>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/07640877aaf07f048d90de33d8cddf14554dbf99>
 
+### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
 ### The current thread cannot create '{ClassName}' (lacking capability Plugin)
@@ -57,13 +58,13 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DataStoreService
 - Debris
 - DebugSettings
-- DebuggablePlugin
 - DebuggerBreakpoint
 - DebuggerManager
 - DockWidgetPluginGui
 - DraftsService
 - DynamicRotate
 - EmotesPages
+- EventIngestService
 - FaceInstance
 - Feature
 - File
@@ -98,11 +99,13 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - InputObject
 - InsertService
 - Instance
+- InternalSyncService
 - InventoryPages
 - JointInstance
 - JointsService
 - KeyboardService
 - KeyframeSequenceProvider
+- LanguageService
 - LayerCollector
 - Light
 - Lighting
@@ -194,6 +197,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ServerScriptService
 - ServerStorage
 - ServiceProvider
+- SessionService
 - SlidingBallConstraint
 - SocialService
 - SolidModelContentProvider
