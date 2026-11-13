@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.423.0.391560 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/b6067f3fecfbdbe72a1f00e19264283fd74230fd/API-Dump.json>)
+Generated using Version 0.424.0.392804 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/ddd4d744e10e246bc091731855184481c3889953/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/b6067f3fecfbdbe72a1f00e19264283fd74230fd>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/ddd4d744e10e246bc091731855184481c3889953>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -23,6 +23,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AnalyticsService
 - AnimationTrack
 - AppStorageService
+- AssetManagerService
 - AssetService
 - BackpackItem
 - BadgeService
@@ -32,6 +33,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BevelMesh
 - BodyMover
 - BrowserService
+- BulkImportService
 - CacheableContentProvider
 - ChangeHistoryService
 - CharacterAppearance
