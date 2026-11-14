@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.684.0.6840685 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/4deea39abcc964b3b74240e8640be63f3fb32d5f/Full-API-Dump.json>)
+Generated using Version 0.685.0.6850796 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/c74c1322ce498efa573d9ceafcfe0f9a65aa1216/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/4deea39abcc964b3b74240e8640be63f3fb32d5f>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/c74c1322ce498efa573d9ceafcfe0f9a65aa1216>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -209,6 +209,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - HandleAdornment
 - HandlesBase
 - HapticService
+- HarmonyService
 - HeapProfilerService
 - HeatmapService
 - Hopper
