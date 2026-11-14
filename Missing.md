@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.582.1.5820387 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/47a2aa02f4b660f6b39c606fb9dbeca5ce4f90fa/Full-API-Dump.json>)
+Generated using Version 0.583.2.5831070 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/afc094b8505a8ccdabf0527e00bd0847ae81d7da/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/47a2aa02f4b660f6b39c606fb9dbeca5ce4f90fa>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/afc094b8505a8ccdabf0527e00bd0847ae81d7da>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -117,6 +117,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DockWidgetPluginGui
 - DraftsService
 - DraggerService
+- DynamicImage
 - DynamicMesh
 - DynamicRotate
 - EmotesPages
@@ -164,7 +165,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - HttpService
 - ILegacyStudioBridge
 - IXPService
-- ImageDataExperimental
 - IncrementalPatchBuilder
 - InputObject
 - InsertService
@@ -206,7 +206,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MemoryStoreQueue
 - MemoryStoreSortedMap
 - MeshContentProvider
-- MeshDataExperimental
 - MeshImportData
 - MessageBusConnection
 - MessageBusService
@@ -225,6 +224,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - NetworkSettings
 - NotificationService
 - OmniRecommendationsService
+- OpenCloudApiV1
 - OpenCloudService
 - OrderedDataStore
 - OutfitPages
@@ -245,6 +245,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PermissionsService
 - PhysicsService
 - PhysicsSettings
+- PlaceStatsService
+- PlacesService
 - Platform
 - PlayerEmulatorService
 - PlayerGui
@@ -344,15 +346,19 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Stats
 - StatsItem
 - Status
+- StopWatchReporter
 - Studio
 - StudioAssetService
+- StudioCallout
 - StudioData
 - StudioDeviceEmulatorService
+- StudioObjectBase
 - StudioPublishService
 - StudioScriptDebugEventListener
 - StudioSdkService
 - StudioService
 - StudioTheme
+- StudioWidget
 - StyleBase
 - StylingService
 - SurfaceGuiBase
@@ -407,6 +413,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ValueBase
 - VersionControlService
 - VideoCaptureService
+- VideoService
 - VirtualUser
 - VisibilityCheckDispatcher
 - VisibilityService
