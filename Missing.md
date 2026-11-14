@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.594.0.5940525 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/37bb8117723217272c88684e1caa5d131a7ff948/Full-API-Dump.json>)
+Generated using Version 0.595.0.5950541 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/231161d0a22d424166dfc139dc79f312860cd5dd/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/37bb8117723217272c88684e1caa5d131a7ff948>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/231161d0a22d424166dfc139dc79f312860cd5dd>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -233,6 +233,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - OmniRecommendationsService
 - OpenCloudApiV1
 - OpenCloudService
+- OperationTree
 - OrderedDataStore
 - OutfitPages
 - PVAdornment
@@ -260,6 +261,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PlayerGui
 - PlayerMouse
 - PlayerScripts
+- PlayerViewService
 - Players
 - Plugin
 - PluginDebugService
@@ -360,6 +362,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StreamingService
 - Studio
 - StudioAssetService
+- StudioAttachment
 - StudioCallout
 - StudioData
 - StudioDeviceEmulatorService
