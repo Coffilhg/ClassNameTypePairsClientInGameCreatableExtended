@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.707.0.7070728 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/06f63232677a506d8b779976e495117c6199657c/Full-API-Dump.json>)
+Generated using Version 0.708.0.7080876 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/d1d21a3871a842d49f80a297181bdc0812084ffa/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/06f63232677a506d8b779976e495117c6199657c>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/d1d21a3871a842d49f80a297181bdc0812084ffa>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -328,6 +328,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Platform
 - PlatformCloudStorageService
 - PlatformFriendsService
+- PlatformLibraries
 - PlayerData
 - PlayerDataRecord
 - PlayerDataRecordConfig
@@ -388,6 +389,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - RobloxReplicatedStorage
 - RobloxSerializableInstance
 - RobloxServerStorage
+- RolloutValidation
 - RomarkRbxAnalyticsService
 - RomarkService
 - RootImportData
