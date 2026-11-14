@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.744.0.7441077 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/61dc5e378292877dd1f32724051b1f64608f631a/Full-API-Dump.json>)
+Generated using Version 0.745.0.7451137 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/d45eb7dfb6102c0133de561a83d51edef154e670/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/61dc5e378292877dd1f32724051b1f64608f631a>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/d45eb7dfb6102c0133de561a83d51edef154e670>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -93,7 +93,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BrowserService
 - BubbleChatConfiguration
 - BugReporterService
-- BulkImportService
 - CacheableContentProvider
 - CallingService
 - CalloutService
@@ -204,6 +203,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FacialAnimationStreamingSubsessionStats
 - FacsImportData
 - Feature
+- FeatureMatchingService
+- FeatureMatchingSession
 - FeatureRestrictionManager
 - File
 - FileManagerService
@@ -262,6 +263,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - InstanceExtensionsService
 - InstanceFileSyncService
 - InstanceRegistryService
+- IntegrityService
 - IntentService
 - InternalMessagingService
 - InternalMessagingServiceVerifier
