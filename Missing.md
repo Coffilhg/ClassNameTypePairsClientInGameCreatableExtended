@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.527.0.5270372 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/2535e037a377dd68d73d0b8938807bbd58b966cc/API-Dump.json>)
+Generated using Version 0.528.0.5280404 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/581236f68b6325497867f5dea0d057ba1e2e8871/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/2535e037a377dd68d73d0b8938807bbd58b966cc>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/581236f68b6325497867f5dea0d057ba1e2e8871>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -15,6 +15,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CSGDictionaryService
 - FlyweightService
 - NonReplicatedCSGDictionaryService
+### *The current thread cannot create '{ClassName}' (lacking capability RobloxScript)* ~ TrackerStreamAnimation
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
 ### Unable to create an Instance of type "{ClassName}"
 - ABTestService
@@ -25,6 +26,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AnimationClipProvider
 - AnimationFromVideoCreatorService
 - AnimationFromVideoCreatorStudioService
+- AnimationStreamTrack
 - AnimationTrack
 - AppStorageService
 - AppUpdateService
@@ -107,6 +109,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - EventIngestService
 - FaceAnimatorService
 - FaceInstance
+- FacialAnimationStreamingService
 - Feature
 - File
 - FlagStandService
@@ -158,7 +161,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - KeyboardService
 - KeyframeSequenceProvider
 - LSPFileSyncService
-- LSPService
 - LanguageService
 - LayerCollector
 - LegacyStudioBridge
@@ -260,6 +262,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReplicatedStorage
 - RobloxPluginGuiService
 - RobloxReplicatedStorage
+- RtMessagingService
 - RunService
 - RunningAverageItemDouble
 - RunningAverageItemInt
@@ -270,6 +273,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ScriptCloneWatcherHelper
 - ScriptContext
 - ScriptDebugger
+- ScriptDocument
+- ScriptEditorService
 - ScriptRegistrationService
 - ScriptService
 - Selection
