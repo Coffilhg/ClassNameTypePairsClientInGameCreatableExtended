@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.548.0.5480523 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f58f8c334bb7147058d6d59af921c961c136df40/API-Dump.json>)
+Generated using Version 0.549.0.5490631 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/5afbe8903076ccf4edcaf17a855764460f9196bc/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f58f8c334bb7147058d6d59af921c961c136df40>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/5afbe8903076ccf4edcaf17a855764460f9196bc>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -34,6 +34,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetImportService
 - AssetImportSession
 - AssetManagerService
+- AssetPatchSettings
 - AssetService
 - AssetSoundEffect
 - AvatarEditorService
@@ -77,6 +78,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CoreGui
 - CorePackages
 - CoreScript
+- CoreScriptBuilder
 - CoreScriptSyncService
 - CrossDMScriptChangeListener
 - CustomSoundEffect
@@ -115,6 +117,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FaceInstance
 - FacialAnimationRecordingService
 - FacialAnimationStreamingService
+- FacialAnimationStreamingServiceV2
 - Feature
 - File
 - FlagStandService
@@ -216,7 +219,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PackageUIService
 - Pages
 - PartAdornment
-- PatchMapping
 - Path
 - PathfindingService
 - PausedState
@@ -278,6 +280,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - RunningAverageTimeIntervalItem
 - RuntimeScriptService
 - ScreenshotHud
+- ScriptBuilder
 - ScriptChangeService
 - ScriptCloneWatcher
 - ScriptCloneWatcherHelper
