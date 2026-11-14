@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.545.1.5450434 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/97bd72c47c293c516b26fd8bf02dd93c09150df5/API-Dump.json>)
+Generated using Version 0.546.0.5460522 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/ebf4d5bb7ea532a26a3d2376363b90d71b00b5e5/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/97bd72c47c293c516b26fd8bf02dd93c09150df5>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/ebf4d5bb7ea532a26a3d2376363b90d71b00b5e5>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
