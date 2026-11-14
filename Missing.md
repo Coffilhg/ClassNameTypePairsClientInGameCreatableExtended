@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.647.0.6470717 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/12625bc5bc184d58327eb28fa7df5d84920a9314/Full-API-Dump.json>)
+Generated using Version 0.648.0.6480781 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/369820eae5c63d313b0e3ffd732897e546e02bd5/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/12625bc5bc184d58327eb28fa7df5d84920a9314>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/369820eae5c63d313b0e3ffd732897e546e02bd5>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -337,11 +337,11 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReplicatedFirst
 - ReplicatedStorage
 - RibbonNotificationService
-- RobloxEditableImage
-- RobloxEditableMesh
 - RobloxPluginGuiService
 - RobloxReplicatedStorage
+- RobloxSerializableInstance
 - RobloxServerStorage
+- RomarkRbxAnalyticsService
 - RomarkService
 - RootImportData
 - RtMessagingService
@@ -479,6 +479,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VisualizationModeService
 - VoiceChatInternal
 - VoiceChatService
+- WebViewService
 - Workspace
 - WorkspaceAnnotation
 - WorldRoot
