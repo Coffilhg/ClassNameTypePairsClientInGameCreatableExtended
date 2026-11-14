@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.741.19.7411056 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/613caee11ca4c90532307a1bb0aad99c28fd6250/Full-API-Dump.json>)
+Generated using Version 0.742.0.7421053 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/9f5d667ab5662367b1070024833e46eb15a6aa0d/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/613caee11ca4c90532307a1bb0aad99c28fd6250>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/9f5d667ab5662367b1070024833e46eb15a6aa0d>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -21,6 +21,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FlyweightService
 - NonReplicatedCSGDictionaryService
 ### The current thread cannot create '{ClassName}' (lacking capability RobloxScript)
+- AnimationPlayer
 - AvatarAbilityRules
 - Noise
 - RTAnimationTracker
@@ -36,7 +37,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ActivityHistoryEventService
 - AdService
 - AnalyticsService
-- AnimatedImage
 - AnimatedImageService
 - AnimatedImageTrack
 - AnimationClip
@@ -213,6 +213,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FriendService
 - FriendsCallingInstance
 - FriendsCallingParticipant
+- FriendsCallingService
 - GamePassService
 - GameSettings
 - GamepadService
@@ -242,6 +243,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - HeapProfilerService
 - HeatmapQueryService
 - HeatmapService
+- HiddenPlayerService
 - Hopper
 - HttpRbxApiService
 - HttpRequest
@@ -257,6 +259,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - InstanceAdornment
 - InstanceExtensionsService
 - InstanceFileSyncService
+- InstanceRegistryService
 - IntentService
 - InternalMessagingService
 - InternalMessagingServiceVerifier
@@ -545,6 +548,11 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TerrainReadOperation
 - TerrainWriteOperation
 - TestCase
+- TestExecutionContext
+- TestFailure
+- TestResult
+- TestRunResult
+- TestSuite
 - TextBoxService
 - TextChatConfigurations
 - TextChatMessage
