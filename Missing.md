@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.601.0.6010507 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/efef185bc3b65d5cc8d57ce006e130e399dedbc1/Full-API-Dump.json>)
+Generated using Version 0.602.0.6020631 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/564f1819dfd23bb70e4d93b6bf292ab8aa9f9f03/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/efef185bc3b65d5cc8d57ce006e130e399dedbc1>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/564f1819dfd23bb70e4d93b6bf292ab8aa9f9f03>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -20,6 +20,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 ### *The current thread cannot create '{ClassName}' (lacking capability RobloxScript)* ~ TrackerStreamAnimation
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
 ### Unable to create an Instance of type "{ClassName}"
+- AccountService
 - AdService
 - AnalysticsSettings
 - AnalyticsService
@@ -124,9 +125,9 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DockWidgetPluginGui
 - DraftsService
 - DraggerService
-- DynamicMesh
 - DynamicRotate
 - EditableImage
+- EditableMesh
 - EmotesPages
 - EngineAPICloudProcessingService
 - EventIngestService
