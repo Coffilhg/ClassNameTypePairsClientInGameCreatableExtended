@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.596.1.5960685 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f1b0c1d9dca369205adcc21bb2ab78eff159a438/Full-API-Dump.json>)
+Generated using Version 0.597.1.5970668 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/587a0dd94597799818465e7f19af09679c265601/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f1b0c1d9dca369205adcc21bb2ab78eff159a438>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/587a0dd94597799818465e7f19af09679c265601>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -42,6 +42,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetSoundEffect
 - AudioPages
 - AvatarChatService
+- AvatarCreationService
 - AvatarEditorService
 - AvatarImportService
 - BackpackItem
@@ -196,6 +197,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LocalizationService
 - LodDataEntity
 - LodDataService
+- LogReporterService
 - LogService
 - LoginService
 - LuaSettings
