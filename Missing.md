@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.643.0.6430700 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/1b86376280fd9892a9315d723bede8435a89558c/Full-API-Dump.json>)
+Generated using Version 0.644.0.6440702 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/c30b8759f614ff7261e9dbd0ed3ce4a15f550356/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/1b86376280fd9892a9315d723bede8435a89558c>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/c30b8759f614ff7261e9dbd0ed3ce4a15f550356>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -81,6 +81,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Chat
 - ChatInputBarConfiguration
 - ChatWindowConfiguration
+- ChatWindowMessageProperties
 - ChatbotUIService
 - ClientReplicator
 - Clothing
@@ -110,6 +111,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CoreScriptDebuggingManagerHelper
 - CoreScriptSyncService
 - CreationDBService
+- CreatorStoreService
 - CrossDMScriptChangeListener
 - CustomSoundEffect
 - DataModel
@@ -151,6 +153,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ExperienceNotificationService
 - ExperienceService
 - ExperienceStateCaptureService
+- ExplorerFilterAutocompleterInstance
+- ExplorerFilterInstance
 - FaceAnimatorService
 - FaceInstance
 - FacialAnimationRecordingService
