@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.589.0.5890595 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/a7221f175afaa52633103ba25146e55722512ef4/Full-API-Dump.json>)
+Generated using Version 0.590.0.5900679 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/4730c09a4a7a1c3e68002df7f9bd61d6ad75734d/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/a7221f175afaa52633103ba25146e55722512ef4>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/4730c09a4a7a1c3e68002df7f9bd61d6ad75734d>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -127,6 +127,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - EmotesPages
 - EventIngestService
 - ExperienceAuthService
+- ExperienceNotificationService
 - FaceAnimatorService
 - FaceInstance
 - FacialAnimationRecordingService
@@ -353,6 +354,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StatsItem
 - Status
 - StopWatchReporter
+- StreamingService
 - Studio
 - StudioAssetService
 - StudioCallout
@@ -411,6 +413,11 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - UnvalidatedAssetService
 - UserGameSettings
 - UserInputService
+- UserNotification
+- UserNotificationPayload
+- UserNotificationPayloadAnalyticsData
+- UserNotificationPayloadJoinExperience
+- UserNotificationPayloadParameterValue
 - UserService
 - UserSettings
 - UserStorageService
