@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.716.0.7160873 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/0df28a1a36adc9121b04a4c528fd8fe4750043c4/Full-API-Dump.json>)
+Generated using Version 0.717.0.7170978 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/8df92a73b788712e29b2d2ae92ee68cacdaf3eff/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/0df28a1a36adc9121b04a4c528fd8fe4750043c4>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/8df92a73b788712e29b2d2ae92ee68cacdaf3eff>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -239,6 +239,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - InstanceExtensionsService
 - InstanceFileSyncService
 - InternalMessagingService
+- InternalMessagingServiceVerifier
 - InternalSyncService
 - InventoryPages
 - JointImportData
@@ -366,6 +367,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PolicyService
 - PoseBase
 - PostEffect
+- Preloaded
 - ProceduralBehaviorSchedulerService
 - ProcessInstancePhysicsService
 - PublishService
@@ -475,6 +477,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StudioCaptureService
 - StudioData
 - StudioDeviceEmulatorService
+- StudioDeviceSimulatorService
 - StudioObjectBase
 - StudioPublishService
 - StudioScreenshotCapture
