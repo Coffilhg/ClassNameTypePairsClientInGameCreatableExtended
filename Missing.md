@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.613.0.6130507 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/a2298fe029c249f7559e30bc2a06952f12276339/Full-API-Dump.json>)
+Generated using Version 0.614.0.6140412 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/bebc8edeec3c49787095f07a3ec4bd4a524b5ad9/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/a2298fe029c249f7559e30bc2a06952f12276339>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/bebc8edeec3c49787095f07a3ec4bd4a524b5ad9>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -17,7 +17,9 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CSGDictionaryService
 - FlyweightService
 - NonReplicatedCSGDictionaryService
-### *The current thread cannot create '{ClassName}' (lacking capability RobloxScript)* ~ TrackerStreamAnimation
+### The current thread cannot create '{ClassName}' (lacking capability RobloxScript)
+- Noise
+- TrackerStreamAnimation
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
 ### Unable to create an Instance of type "{ClassName}"
 - AccountService
@@ -411,7 +413,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TextFilterTranslatedResult
 - TextService
 - TextSource
-- TextureGenerationMeshHandler
+- TextureGenerationPartGroup
 - TextureGenerationService
 - ThirdPartyUserService
 - ThreadState
