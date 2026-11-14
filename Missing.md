@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.704.0.7041059 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/215805c1ef27616ff801b8721c1aaa8ec8b26b31/Full-API-Dump.json>)
+Generated using Version 0.705.0.7050923 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/1ba5e0cddc49b5543745aacc466fb3e2338e1bbf/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/215805c1ef27616ff801b8721c1aaa8ec8b26b31>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/1ba5e0cddc49b5543745aacc466fb3e2338e1bbf>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -68,6 +68,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BackpackItem
 - BadgeService
 - BanHistoryPages
+- BaseCoreGuiConfiguration
 - BaseImportData
 - BasePart
 - BasePlayerGui
@@ -86,6 +87,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Capture
 - CaptureService
 - CapturesPages
+- CapturesViewConfiguration
 - CatalogPages
 - ChangeHistoryService
 - ChangeHistoryStreamingService
@@ -120,6 +122,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ConversationalAIAcceptanceService
 - CookiesService
 - CoreGui
+- CoreGuiConfiguration
 - CorePackages
 - CoreScript
 - CoreScriptDebuggingManagerHelper
@@ -331,6 +334,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PlayerEmulatorService
 - PlayerGui
 - PlayerHydrationService
+- PlayerListConfiguration
 - PlayerMouse
 - PlayerScripts
 - PlayerViewService
@@ -412,6 +416,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Selection
 - SelectionHighlightManager
 - SelectionLasso
+- SelfViewConfiguration
 - SensorBase
 - SerializationService
 - ServerReplicator
