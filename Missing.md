@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.549.0.5490631 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/5afbe8903076ccf4edcaf17a855764460f9196bc/API-Dump.json>)
+Generated using Version 0.550.0.5500640 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/ffc8198ee7fa33063e174501552c01d9896220f1/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/5afbe8903076ccf4edcaf17a855764460f9196bc>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/ffc8198ee7fa33063e174501552c01d9896220f1>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -111,8 +111,10 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DraftsService
 - DraggerService
 - DynamicRotate
+- DynamicTextureAlpha
 - EmotesPages
 - EventIngestService
+- ExperienceAuthService
 - FaceAnimatorService
 - FaceInstance
 - FacialAnimationRecordingService
@@ -371,6 +373,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VersionControlService
 - VideoCaptureService
 - VirtualUser
+- VisibilityCheckDispatcher
 - VisibilityService
 - Visit
 - VoiceChannel
