@@ -2,11 +2,10 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.725.0.7251148 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/c91e755098517259b826302dbf4e97cbb4ad2dc6/Full-API-Dump.json>)
+Generated using Version 0.726.0.7261140-rc.1 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/ede742f4159d46b76a8b370124da5f8a3ff03fcd/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/c91e755098517259b826302dbf4e97cbb4ad2dc6>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/ede742f4159d46b76a8b370124da5f8a3ff03fcd>
 
-### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### The current thread cannot create '{ClassName}' (lacking capability InternalTest)
 - CustomLog
@@ -28,7 +27,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TrackerStreamAnimation
 - VideoDeviceInput
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
-### *This type can not be instantiated* ~ AuroraScript
 ### Unable to create an Instance of type "{ClassName}"
 - AccountService
 - AchievementService
@@ -62,8 +60,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AudioFocusService
 - AudioPages
 - AuroraScriptObject
-- AuroraScriptService
-- AuroraService
 - AvatarChatService
 - AvatarCreationService
 - AvatarEditorService
@@ -103,6 +99,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ChatWindowConfiguration
 - ChatWindowMessageProperties
 - ClientReplicator
+- ClientStorageService
 - Clothing
 - CloudCRUDService
 - CloudExecutionService
@@ -243,14 +240,12 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - InstanceFileSyncService
 - InternalMessagingService
 - InternalMessagingServiceVerifier
-- InternalSyncService
 - InventoryPages
 - JointImportData
 - JointInstance
 - JointsService
 - KeyboardService
 - KeyframeSequenceProvider
-- LSPFileSyncService
 - LanguageService
 - LayerCollector
 - LegacyStudioBridge
