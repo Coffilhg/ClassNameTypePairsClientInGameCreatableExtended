@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.653.0.6530693 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/acd553b930d86c5f5bd4d5a8f766d9284e31d189/Full-API-Dump.json>)
+Generated using Version 0.654.0.6540470 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f4824d3763c95112761a9af66084b66d59a04c83/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/acd553b930d86c5f5bd4d5a8f766d9284e31d189>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f4824d3763c95112761a9af66084b66d59a04c83>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -20,6 +20,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 ### The current thread cannot create '{ClassName}' (lacking capability RobloxScript)
 - Noise
 - RTAnimationTracker
+- RelativeGui
 - TrackerStreamAnimation
 - VideoDeviceInput
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
@@ -52,6 +53,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetSoundEffect
 - AudioFocusService
 - AudioPages
+- AuroraService
 - AvatarChatService
 - AvatarCreationService
 - AvatarEditorService
@@ -166,6 +168,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FacialAnimationStreamingSubsessionStats
 - FacsImportData
 - Feature
+- FeatureRestrictionManager
 - File
 - FlagStandService
 - FormFactorPart
