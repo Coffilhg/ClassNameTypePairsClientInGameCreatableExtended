@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.740.19.7400931 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/1a8fe8086d319d1c1e08b24f880eee77a30eeaf8/Full-API-Dump.json>)
+Generated using Version 0.741.19.7411056 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/613caee11ca4c90532307a1bb0aad99c28fd6250/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/1a8fe8086d319d1c1e08b24f880eee77a30eeaf8>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/613caee11ca4c90532307a1bb0aad99c28fd6250>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -73,6 +73,9 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AvatarEditorService
 - AvatarImportService
 - AvatarSettings
+- BackendReplicatedStorage
+- BackendServerScriptService
+- BackendServerStorage
 - BackpackItem
 - BadgeService
 - BanHistoryPages
@@ -208,6 +211,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FormFactorPart
 - FriendPages
 - FriendService
+- FriendsCallingInstance
+- FriendsCallingParticipant
 - GamePassService
 - GameSettings
 - GamepadService
@@ -392,6 +397,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Preloaded
 - ProceduralBehaviorSchedulerService
 - ProcessInstancePhysicsService
+- ProjectService
 - PublishService
 - QWidgetPluginGui
 - QueueService
