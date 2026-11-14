@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.672.0.6720706 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/6f955ad1738919a59aa406745ebe0c00f3de1761/Full-API-Dump.json>)
+Generated using Version 0.673.0.6730711 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f76f7225c21644a75779147960da4d3192d36331/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/6f955ad1738919a59aa406745ebe0c00f3de1761>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f76f7225c21644a75779147960da4d3192d36331>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -208,6 +208,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - GuiService
 - GuidRegistryService
 - HSRDataContentProvider
+- HandRigDescription
 - HandleAdornment
 - HandlesBase
 - HapticService
@@ -506,6 +507,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VRStatusService
 - ValueBase
 - VersionControlService
+- VideoCapture
 - VideoCaptureService
 - VideoService
 - VirtualUser
