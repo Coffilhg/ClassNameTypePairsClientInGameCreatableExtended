@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.696.0.6960797 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/d201fdf9e3a68bcbc42d386dcc5f13c4fe921347/Full-API-Dump.json>)
+Generated using Version 0.697.0.6970925 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/e4882697e871c6154223fc0ad3e631e4b18bc1bc/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/d201fdf9e3a68bcbc42d386dcc5f13c4fe921347>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/e4882697e871c6154223fc0ad3e631e4b18bc1bc>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -37,6 +37,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AnimationFromVideoCreatorService
 - AnimationFromVideoCreatorStudioService
 - AnimationImportData
+- AnimationNode
 - AnimationStreamTrack
 - AnimationTrack
 - Annotation
@@ -159,6 +160,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - EditableMesh
 - EditableService
 - EmotesPages
+- EncodingService
 - EventIngestService
 - ExampleV2Service
 - ExecutedRemoteCommand
