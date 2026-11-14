@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.661.0.6610708 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/43af170bf4c8dd4ce31beb7625c282bc77d14196/Full-API-Dump.json>)
+Generated using Version 0.662.0.6620538 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/e958a3789b5dc426ca43869beafee36b34b5f69b/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/43af170bf4c8dd4ce31beb7625c282bc77d14196>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/e958a3789b5dc426ca43869beafee36b34b5f69b>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -80,6 +80,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BulkImportService
 - CacheableContentProvider
 - CalloutService
+- Capture
 - CaptureService
 - CatalogPages
 - ChangeHistoryService
@@ -370,6 +371,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - RunningAverageTimeIntervalItem
 - RuntimeScriptService
 - SafetyService
+- ScreenshotCapture
 - ScreenshotHud
 - ScriptBuilder
 - ScriptChangeService
