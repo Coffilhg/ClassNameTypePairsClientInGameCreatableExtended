@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.634.0.6340420 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/7b36689953d1067788cc5d9185d7f788b288529e/Full-API-Dump.json>)
+Generated using Version 0.635.0.6350588 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/7d24950047ac96ccd3652b9a80e3cb44cc0a777b/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/7b36689953d1067788cc5d9185d7f788b288529e>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/7d24950047ac96ccd3652b9a80e3cb44cc0a777b>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -49,6 +49,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetPatchSettings
 - AssetService
 - AssetSoundEffect
+- AudioFocusService
 - AudioPages
 - Avatar2DGenerationJob
 - Avatar3DGenerationJob
@@ -79,6 +80,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CatalogPages
 - ChangeHistoryService
 - ChannelSelectorSoundEffect
+- ChannelTabsConfiguration
 - CharacterAppearance
 - Chat
 - ChatInputBarConfiguration
