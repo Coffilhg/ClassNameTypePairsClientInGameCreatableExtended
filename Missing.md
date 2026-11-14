@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.678.0.6780751 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/77600aefc6b7d76195ce6e494b9cf12de839176a/Full-API-Dump.json>)
+Generated using Version 0.679.0.6790761 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/3534f94ef38b357baed80c2ab25cb88988b52c67/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/77600aefc6b7d76195ce6e494b9cf12de839176a>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/3534f94ef38b357baed80c2ab25cb88988b52c67>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -258,7 +258,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MarketplaceService
 - MatchmakingService
 - MaterialGenerationService
-- MaterialGenerationSession
 - MaterialImportData
 - MaterialService
 - MemStorageConnection
@@ -275,7 +274,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MetaBreakpoint
 - MetaBreakpointContext
 - MetaBreakpointManager
-- Moderation
+- MicroProfilerService
+- ModerationService
 - Mouse
 - MouseService
 - MultipleDocumentInterfaceInstance
@@ -409,6 +409,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ServerStorage
 - ServiceProvider
 - ServiceVisibilityService
+- SessionCheckService
 - SessionService
 - SharedTableRegistry
 - SlidingBallConstraint
@@ -501,6 +502,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - UIBase
 - UIComponent
 - UIConstraint
+- UIContainerQuery
 - UIDragDetectorService
 - UIGridStyleLayout
 - UILayout
