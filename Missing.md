@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.588.0.5880517 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/5a4d83b61c6486881ad13894af51a5719075474c/Full-API-Dump.json>)
+Generated using Version 0.589.0.5890595 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/a7221f175afaa52633103ba25146e55722512ef4/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/5a4d83b61c6486881ad13894af51a5719075474c>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/a7221f175afaa52633103ba25146e55722512ef4>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -67,10 +67,13 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Chat
 - ChatInputBarConfiguration
 - ChatWindowConfiguration
+- ChatbotUIService
 - ClientReplicator
 - Clothing
 - CloudLocalizationTable
 - ClusterPacketCache
+- Collaborator
+- CollaboratorsService
 - CollectionService
 - CommandInstance
 - CommandService
@@ -249,6 +252,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PlaceStatsService
 - PlacesService
 - Platform
+- PlatformFriendsService
 - PlayerEmulatorService
 - PlayerGui
 - PlayerMouse
