@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.743.0.7431133 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/0cddacf05b7c228783654dfd97d6533e4874dba0/Full-API-Dump.json>)
+Generated using Version 0.744.0.7441077 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/61dc5e378292877dd1f32724051b1f64608f631a/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/0cddacf05b7c228783654dfd97d6533e4874dba0>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/61dc5e378292877dd1f32724051b1f64608f631a>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -49,6 +49,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Annotation
 - AnnotationsService
 - AppAgeSignalsService
+- AppHandle
 - AppLifecycleObserverService
 - AppRatingPromptService
 - AppStorageService
@@ -114,6 +115,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ClientStorageService
 - Clothing
 - CloudCRUDService
+- CloudClientService
 - CloudExecutionService
 - CloudLocalizationTable
 - ClusterPacketCache
@@ -345,6 +347,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Packages
 - Pages
 - PartAdornment
+- ParticipantHandle
 - PartyEmulatorService
 - PatchBundlerFileWatch
 - PatchMapping
@@ -548,6 +551,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TerrainReadOperation
 - TerrainWriteOperation
 - TestCase
+- TestCoordinatorService
 - TestExecutionContext
 - TestFailure
 - TestResult
