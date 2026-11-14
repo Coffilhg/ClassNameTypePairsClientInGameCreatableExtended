@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.706.0.7060746 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/bb61b08580a14134d06b9d8c8b5628e5266d628c/Full-API-Dump.json>)
+Generated using Version 0.707.0.7070728 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/06f63232677a506d8b779976e495117c6199657c/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/bb61b08580a14134d06b9d8c8b5628e5266d628c>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/06f63232677a506d8b779976e495117c6199657c>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -511,6 +511,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TotalCountTimeIntervalItem
 - TouchInputService
 - TouchTransmitter
+- TraceRouteService
 - TracerService
 - TrackerLodController
 - Translator
@@ -555,3 +556,4 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Workspace
 - WorkspaceAnnotation
 - WorldRoot
+- WrapDeformMeshProvider
