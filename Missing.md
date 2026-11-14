@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.669.0.6690660 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/c769b4a75322ab1fdd08a31597a39f8dc6a36f0f/Full-API-Dump.json>)
+Generated using Version 0.670.0.6700713 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/5e571ff5f6f41cde21db29a6ebdac912d47a9ece/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/c769b4a75322ab1fdd08a31597a39f8dc6a36f0f>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/5e571ff5f6f41cde21db29a6ebdac912d47a9ece>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -177,6 +177,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FacsImportData
 - Feature
 - FeatureRestrictionManager
+- FeedPages
+- FeedService
 - File
 - FlagStandService
 - FormFactorPart
@@ -305,6 +307,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PermissionsService
 - PhysicsService
 - PhysicsSettings
+- PlaceAssetIdsService
 - PlaceStatsService
 - PlacesService
 - Platform
