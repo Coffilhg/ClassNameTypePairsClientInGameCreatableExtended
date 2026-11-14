@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.724.0.7240739 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/3a6f940ed8f97c4ee9a3bdfe2b1387adcac59f99/Full-API-Dump.json>)
+Generated using Version 0.725.0.7251140 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/dba671acd5104068357d8e03648de8d3d5216fae/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/3a6f940ed8f97c4ee9a3bdfe2b1387adcac59f99>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/dba671acd5104068357d8e03648de8d3d5216fae>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -452,6 +452,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - SlimAnimationDataEntity
 - SlimAnimationReplicationService
 - SlimContentProvider
+- SlimDebugSettings
 - SlimReplicationService
 - SlimService
 - SmoothVoxelsUpgraderService
@@ -476,6 +477,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Status
 - StopWatchReporter
 - Studio
+- StudioActionOverride
 - StudioAssetService
 - StudioAttachment
 - StudioCallout
