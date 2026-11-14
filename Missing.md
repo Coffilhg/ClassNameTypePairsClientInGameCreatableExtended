@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.581.0.5810563 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f239c8c693f754fca2667050231218861f8b9b1f/Full-API-Dump.json>)
+Generated using Version 0.582.1.5820387 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/47a2aa02f4b660f6b39c606fb9dbeca5ce4f90fa/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f239c8c693f754fca2667050231218861f8b9b1f>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/47a2aa02f4b660f6b39c606fb9dbeca5ce4f90fa>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -117,6 +117,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DockWidgetPluginGui
 - DraftsService
 - DraggerService
+- DynamicMesh
 - DynamicRotate
 - EmotesPages
 - EventIngestService
@@ -386,8 +387,10 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TrackerLodController
 - Translator
 - TriangleMeshPart
+- TutorialService
 - TweenBase
 - TweenService
+- UGCAvatarService
 - UGCValidationService
 - UIBase
 - UIComponent
