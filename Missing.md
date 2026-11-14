@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.650.0.6500743 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/37992812c5ba9dd808a38a1612f327fc7aca3f50/Full-API-Dump.json>)
+Generated using Version 0.651.1.6510840 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/7f7fb27f528f5ad46cb4db17f18d410d0c063e10/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/37992812c5ba9dd808a38a1612f327fc7aca3f50>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/7f7fb27f528f5ad46cb4db17f18d410d0c063e10>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -423,6 +423,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TeamCreatePublishService
 - TeamCreateService
 - Teams
+- TelemetryService
 - TeleportAsyncResult
 - TeleportService
 - TemporaryCageMeshProvider
