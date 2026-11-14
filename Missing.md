@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.592.0.5920587 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f2a5d9de6af63b9625819f6a182c86a13f7e0dfd/Full-API-Dump.json>)
+Generated using Version 0.593.0.5930659 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/75790d97263ce8980af93bed391ae00805d01f94/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f2a5d9de6af63b9625819f6a182c86a13f7e0dfd>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/75790d97263ce8980af93bed391ae00805d01f94>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -128,6 +128,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - EventIngestService
 - ExperienceAuthService
 - ExperienceNotificationService
+- ExperienceService
 - FaceAnimatorService
 - FaceInstance
 - FacialAnimationRecordingService
@@ -299,6 +300,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - RenderSettings
 - ReplicatedFirst
 - ReplicatedStorage
+- RibbonNotificationService
 - RobloxPluginGuiService
 - RobloxReplicatedStorage
 - RobloxServerStorage
