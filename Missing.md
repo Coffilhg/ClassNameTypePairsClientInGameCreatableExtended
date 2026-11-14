@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.709.0.7090870 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/561fed21aed765e9afeb53be6ac00445d85b2f11/Full-API-Dump.json>)
+Generated using Version 0.710.0.7100702 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/2887079874a2cc2267277affca1bce1ca4e75588/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/561fed21aed765e9afeb53be6ac00445d85b2f11>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/2887079874a2cc2267277affca1bce1ca4e75588>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -98,7 +98,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ChatInputBarConfiguration
 - ChatWindowConfiguration
 - ChatWindowMessageProperties
-- ChatbotUIService
 - ClientReplicator
 - Clothing
 - CloudCRUDService
@@ -390,6 +389,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - RobloxSerializableInstance
 - RobloxServerStorage
 - RolloutValidation
+- RolloutValidationService
 - RomarkRbxAnalyticsService
 - RomarkService
 - RootImportData
@@ -457,7 +457,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StatsItem
 - Status
 - StopWatchReporter
-- StreamingService
 - Studio
 - StudioAssetService
 - StudioAttachment
@@ -551,6 +550,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VisualizationModeService
 - VoiceChatInternal
 - VoiceChatService
+- VoxelBuffer
 - WebSocketClient
 - WebSocketService
 - WebStreamClient
