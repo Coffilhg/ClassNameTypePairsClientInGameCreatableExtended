@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.552.0.5520581 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/2c681886d38e137974e10e3d6713171a3d4423cd/API-Dump.json>)
+Generated using Version 0.553.0.5530621 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/94ef39a76d171c3bf62142b7916425076effec6a/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/2c681886d38e137974e10e3d6713171a3d4423cd>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/94ef39a76d171c3bf62142b7916425076effec6a>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -112,6 +112,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DraggerService
 - DynamicRotate
 - DynamicTextureAlpha
+- DynamicTextureLayerAlpha
 - EmotesPages
 - EventIngestService
 - ExperienceAuthService
