@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.540.0.5400503 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/5001a4705903174088514895945c8081dae20f51/API-Dump.json>)
+Generated using Version 0.541.0.5410422 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/32df8cc94be4147028de811f644028839c94293a/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/5001a4705903174088514895945c8081dae20f51>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/32df8cc94be4147028de811f644028839c94293a>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -47,7 +47,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BevelMesh
 - BodyMover
 - Breakpoint
-- BreakpointManager
 - BrowserService
 - BulkImportService
 - CacheableContentProvider
@@ -194,6 +193,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MessagingService
 - MetaBreakpoint
 - MetaBreakpointContext
+- MetaBreakpointManager
 - Mouse
 - MouseService
 - MultipleDocumentInterfaceInstance
