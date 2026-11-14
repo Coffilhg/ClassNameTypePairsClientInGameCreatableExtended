@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.603.0.6030563 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/faebb14730ce5fbb33016075d1258d33ec715854/Full-API-Dump.json>)
+Generated using Version 0.604.0.6040508-rc.1 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/8f3707ab68ef0f0631a6f512f00ac387b62c7b2f/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/faebb14730ce5fbb33016075d1258d33ec715854>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/8f3707ab68ef0f0631a6f512f00ac387b62c7b2f>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -239,7 +239,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - OmniRecommendationsService
 - OpenCloudApiV1
 - OpenCloudService
-- OperationTree
 - OrderedDataStore
 - OutfitPages
 - PVAdornment
