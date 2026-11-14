@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.578.0.5780566 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/3290b77f89aec15d628db55f79badee2002a9e8d/Full-API-Dump.json>)
+Generated using Version 0.580.0.5800572 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/64ac414a89c46742695c4b7894d5bdc7996be2f4/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/3290b77f89aec15d628db55f79badee2002a9e8d>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/64ac414a89c46742695c4b7894d5bdc7996be2f4>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -58,6 +58,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BulkImportService
 - CacheableContentProvider
 - CalloutService
+- CaptureService
 - CatalogPages
 - ChangeHistoryService
 - ChannelSelectorSoundEffect
@@ -123,7 +124,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FaceAnimatorService
 - FaceInstance
 - FacialAnimationRecordingService
-- FacialAnimationStreamingService
 - FacialAnimationStreamingServiceStats
 - FacialAnimationStreamingServiceV2
 - FacialAnimationStreamingSubsessionStats
@@ -222,6 +222,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - NetworkServer
 - NetworkSettings
 - NotificationService
+- OmniRecommendationsService
 - OrderedDataStore
 - OutfitPages
 - PVAdornment
