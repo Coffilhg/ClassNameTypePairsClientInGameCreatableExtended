@@ -2,15 +2,16 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.583.2.5831070 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/afc094b8505a8ccdabf0527e00bd0847ae81d7da/Full-API-Dump.json>)
+Generated using Version 0.587.0.5870056-rc.1 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/c080d34a38de065cee3edc29665101d6990addff/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/afc094b8505a8ccdabf0527e00bd0847ae81d7da>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/c080d34a38de065cee3edc29665101d6990addff>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
 ### The current thread cannot create '{ClassName}' (lacking capability Plugin)
 - PluginAction
+- PluginCapabilities
 - StandalonePluginScripts
 ### The current thread cannot create '{ClassName}' (lacking capability RobloxEngine)
 - CSGDictionaryService
@@ -294,6 +295,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReplicatedStorage
 - RobloxPluginGuiService
 - RobloxReplicatedStorage
+- RobloxServerStorage
 - RomarkService
 - RootImportData
 - RtMessagingService
@@ -381,7 +383,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TextFilterTranslatedResult
 - TextService
 - TextSource
-- TextureGuiExperimental
 - ThirdPartyUserService
 - ThreadState
 - TimerService
@@ -410,6 +411,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - UserSettings
 - UserStorageService
 - VRService
+- VRStatusService
 - ValueBase
 - VersionControlService
 - VideoCaptureService
