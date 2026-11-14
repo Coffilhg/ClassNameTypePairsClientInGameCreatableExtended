@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.738.0.7381393 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/72a710d2555d78ccaf22fe10db90aaf98f8fdd60/Full-API-Dump.json>)
+Generated using Version 0.739.0.7390687 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/a1d846e99b25c290cce9b2b092bf0c21d3aa2330/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/72a710d2555d78ccaf22fe10db90aaf98f8fdd60>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/a1d846e99b25c290cce9b2b092bf0c21d3aa2330>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -190,6 +190,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ExplorerFilter
 - ExplorerFilterAutocompleter
 - ExplorerServiceVisibilityService
+- ExternalIdentityService
 - FaceAnimatorService
 - FaceInstance
 - FacialAgeEstimationService
@@ -393,6 +394,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ProcessInstancePhysicsService
 - PublishService
 - QWidgetPluginGui
+- QueueService
 - RbxAnalyticsService
 - RecommendationPages
 - RecommendationService
@@ -484,6 +486,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - SpawnerService
 - StackFrame
 - StandardPages
+- StandardQueue
 - StartPageService
 - StarterCharacterScripts
 - StarterGui
