@@ -2,10 +2,11 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.728.0.7280895 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/550142233a98c05eac8be3dbc7d3786dd9782d8a/Full-API-Dump.json>)
+Generated using Version 0.729.0.7290838 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/77bea4ee981cd657403c71d81f0fde1f334a047e/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/550142233a98c05eac8be3dbc7d3786dd9782d8a>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/77bea4ee981cd657403c71d81f0fde1f334a047e>
 
+### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### The current thread cannot create '{ClassName}' (lacking capability InternalTest)
 - CustomLog
@@ -27,6 +28,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TrackerStreamAnimation
 - VideoDeviceInput
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
+### *This type can not be instantiated* ~ AuroraScript
 ### Unable to create an Instance of type "{ClassName}"
 - AccountService
 - AchievementService
@@ -60,6 +62,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AudioFocusService
 - AudioPages
 - AuroraScriptObject
+- AuroraScriptService
+- AuroraService
 - AvatarChatService
 - AvatarCreationService
 - AvatarEditorService
@@ -157,7 +161,9 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DebuggerVariable
 - DeferredAssetManagerService
 - DesignFoundationsService
+- DeviceDisplayService
 - DeviceIdService
+- DisplayWakeLock
 - DockWidgetPluginGui
 - DraftsService
 - DraggerService
@@ -240,6 +246,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - InstanceFileSyncService
 - InternalMessagingService
 - InternalMessagingServiceVerifier
+- InternalSyncService
 - InventoryPages
 - JointImportData
 - JointInstance
@@ -364,6 +371,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PluginToolbarButton
 - PointsService
 - PolicyService
+- PopLatencyService
 - PoseBase
 - PostEffect
 - Preloaded
