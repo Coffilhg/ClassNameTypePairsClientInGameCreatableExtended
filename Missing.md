@@ -2,12 +2,13 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.660.0.6600646 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/079392394249ce218a11b2a029d7b86f70647483/Full-API-Dump.json>)
+Generated using Version 0.661.0.6610708 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/43af170bf4c8dd4ce31beb7625c282bc77d14196/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/079392394249ce218a11b2a029d7b86f70647483>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/43af170bf4c8dd4ce31beb7625c282bc77d14196>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
+### *The current thread cannot create '{ClassName}' (lacking capability InternalTest)* ~ CustomLog
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
 ### The current thread cannot create '{ClassName}' (lacking capability Plugin)
 - PluginAction
@@ -24,6 +25,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TrackerStreamAnimation
 - VideoDeviceInput
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
+### *This type can not be instantiated* ~ AuroraScript
 ### Unable to create an Instance of type "{ClassName}"
 - AccountService
 - AchievementService
@@ -53,6 +55,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetSoundEffect
 - AudioFocusService
 - AudioPages
+- AuroraScriptService
 - AuroraService
 - AvatarChatService
 - AvatarCreationService
@@ -178,6 +181,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - GamePassService
 - GameSettings
 - GamepadService
+- GenerationService
 - GenericChallengeService
 - GenericSettings
 - Geometry
@@ -199,6 +203,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - HandleAdornment
 - HandlesBase
 - HapticService
+- HeapProfilerService
 - HeatmapService
 - Hopper
 - HttpRbxApiService
@@ -299,6 +304,10 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Platform
 - PlatformCloudStorageService
 - PlatformFriendsService
+- PlayerData
+- PlayerDataRecord
+- PlayerDataRecordConfig
+- PlayerDataService
 - PlayerEmulatorService
 - PlayerGui
 - PlayerHydrationService
