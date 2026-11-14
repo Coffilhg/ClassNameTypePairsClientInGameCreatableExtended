@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.563.0.5630392 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/0806c2fe0da719525ad31b56248284207b25af03/Full-API-Dump.json>)
+Generated using Version 0.564.1.5640444 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/68e83985f9fcd6fa0a9b4088ea0733fb382de615/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/0806c2fe0da719525ad31b56248284207b25af03>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/68e83985f9fcd6fa0a9b4088ea0733fb382de615>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -113,8 +113,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DraftsService
 - DraggerService
 - DynamicRotate
-- DynamicTextureAlpha
-- DynamicTextureLayerAlpha
 - EmotesPages
 - EventIngestService
 - ExperienceAuthService
@@ -156,6 +154,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - HttpService
 - ILegacyStudioBridge
 - IXPService
+- ImageDataExperimental
 - ImporterAnimationSettings
 - ImporterBaseSettings
 - ImporterFacsSettings
@@ -226,6 +225,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PackageUIService
 - Pages
 - PartAdornment
+- PatchBundlerFileWatch
 - PatchMapping
 - Path
 - PathfindingService
@@ -307,6 +307,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ServerStorage
 - ServiceProvider
 - SessionService
+- SharedTableRegistry
 - ShorelineUpgraderService
 - SlidingBallConstraint
 - SmoothVoxelsUpgraderService
@@ -338,6 +339,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StudioService
 - StudioTheme
 - SurfaceGuiBase
+- SyncScriptBuilder
 - TaskScheduler
 - TeamCreateData
 - TeamCreatePublishService
@@ -355,6 +357,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TextFilterResult
 - TextService
 - TextSource
+- TextureGuiExperimental
 - ThirdPartyUserService
 - ThreadState
 - TimerService
