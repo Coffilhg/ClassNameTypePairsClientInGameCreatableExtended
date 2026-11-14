@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.636.0.6360624 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/720d0edba10f2b2a4627ea39b53eaf18f85771c0/Full-API-Dump.json>)
+Generated using Version 0.637.0.6370729 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/e6da84f8bdfdb9e4e3c405976f23a88f16020b91/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/720d0edba10f2b2a4627ea39b53eaf18f85771c0>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/e6da84f8bdfdb9e4e3c405976f23a88f16020b91>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -88,6 +88,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ChatbotUIService
 - ClientReplicator
 - Clothing
+- CloudCRUDService
 - CloudLocalizationTable
 - ClusterPacketCache
 - Collaborator
@@ -147,7 +148,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - EditableImage
 - EditableMesh
 - EmotesPages
-- EngineAPICloudProcessingService
 - EventIngestService
 - ExampleService
 - ExperienceAuthService
