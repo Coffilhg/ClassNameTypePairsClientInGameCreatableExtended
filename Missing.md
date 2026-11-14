@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.616.0.6160656 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/511fb1eb8bf2cbbdc83c924bf8a28bdc9e6175e0/Full-API-Dump.json>)
+Generated using Version 0.617.0.6170654 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/54d23909e13709fbf926f3fe5c6ecd9dbb1cee2b/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/511fb1eb8bf2cbbdc83c924bf8a28bdc9e6175e0>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/54d23909e13709fbf926f3fe5c6ecd9dbb1cee2b>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -320,6 +320,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReplicatedStorage
 - RibbonNotificationService
 - RobloxEditableImage
+- RobloxEditableMesh
 - RobloxPluginGuiService
 - RobloxReplicatedStorage
 - RobloxServerStorage
