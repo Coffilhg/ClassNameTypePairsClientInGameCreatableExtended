@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.535.0.5350277 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/a193975870935ff57418bb96828eb2861e8dd422/API-Dump.json>)
+Generated using Version 0.536.1.5360453 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/bd058a84761322b81b3e63190e7129c3cb5d4b7c/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/a193975870935ff57418bb96828eb2861e8dd422>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/bd058a84761322b81b3e63190e7129c3cb5d4b7c>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -211,6 +211,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PackageUIService
 - Pages
 - PartAdornment
+- PatchMapping
 - Path
 - PathfindingService
 - PausedState
@@ -264,6 +265,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReplicatedStorage
 - RobloxPluginGuiService
 - RobloxReplicatedStorage
+- RomarkSoundEffect
 - RtMessagingService
 - RunService
 - RunningAverageItemDouble
