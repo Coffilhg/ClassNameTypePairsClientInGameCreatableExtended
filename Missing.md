@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.646.0.6460700 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/4f6950c467a39d05253e1d57a7cd037b60de18de/Full-API-Dump.json>)
+Generated using Version 0.647.0.6470717 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/12625bc5bc184d58327eb28fa7df5d84920a9314/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/4f6950c467a39d05253e1d57a7cd037b60de18de>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/12625bc5bc184d58327eb28fa7df5d84920a9314>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -153,8 +153,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ExperienceNotificationService
 - ExperienceService
 - ExperienceStateCaptureService
-- ExplorerFilterAutocompleterInstance
-- ExplorerFilterInstance
+- ExplorerFilter
+- ExplorerFilterAutocompleter
 - FaceAnimatorService
 - FaceInstance
 - FacialAnimationRecordingService
@@ -261,6 +261,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - NetworkServer
 - NetworkSettings
 - NotificationService
+- Object
 - OmniRecommendationsService
 - OpenCloudApiV1
 - OpenCloudService
