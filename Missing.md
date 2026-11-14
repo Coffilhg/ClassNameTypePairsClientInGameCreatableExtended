@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.531.0.5310423 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/97d100426f1c7ae7b0d2e70aece2e2cc0abd7a0d/API-Dump.json>)
+Generated using Version 0.532.0.5320475-rc.1 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/b98eb484bcb0bec939ea97d8a018ad4ba1af912f/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/97d100426f1c7ae7b0d2e70aece2e2cc0abd7a0d>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/b98eb484bcb0bec939ea97d8a018ad4ba1af912f>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -101,6 +101,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DebuggerManager
 - DebuggerUIService
 - DebuggerVariable
+- DeviceIdService
 - DockWidgetPluginGui
 - DraftsService
 - DraggerService
@@ -268,6 +269,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - RunningAverageItemInt
 - RunningAverageTimeIntervalItem
 - RuntimeScriptService
+- ScreenshotHud
 - ScriptChangeService
 - ScriptCloneWatcher
 - ScriptCloneWatcherHelper
