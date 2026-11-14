@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.633.1.6330512 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/184e976d9e2c4be893a7d2f0a4f4c067cf4194ca/Full-API-Dump.json>)
+Generated using Version 0.634.0.6340420-rc.1 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/6c13b4c00a51356dddde94b31baff6092a5c396f/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/184e976d9e2c4be893a7d2f0a4f4c067cf4194ca>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/6c13b4c00a51356dddde94b31baff6092a5c396f>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -26,7 +26,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 ### Unable to create an Instance of type "{ClassName}"
 - AccountService
 - AchievementService
-- ActivityHistoryService
 - AdService
 - AnalysticsSettings
 - AnalyticsService
@@ -37,6 +36,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AnimationImportData
 - AnimationStreamTrack
 - AnimationTrack
+- Annotation
 - AnnotationsService
 - AppLifecycleObserverService
 - AppStorageService
@@ -474,4 +474,5 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VoiceChatInternal
 - VoiceChatService
 - Workspace
+- WorkspaceAnnotation
 - WorldRoot
