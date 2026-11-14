@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.700.0.7000935 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/4fd511d1a952c18433e2ebdbc247713f3692471c/Full-API-Dump.json>)
+Generated using Version 0.701.0.7010966 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/20710fc6516f36988b948b0b287edd4dd6fa12fe/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/4fd511d1a952c18433e2ebdbc247713f3692471c>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/20710fc6516f36988b948b0b287edd4dd6fa12fe>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -52,6 +52,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetImportSession
 - AssetManagerService
 - AssetPatchSettings
+- AssetQualityService
 - AssetService
 - AssetSoundEffect
 - AudioFocusService
