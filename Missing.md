@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.564.1.5640444 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/68e83985f9fcd6fa0a9b4088ea0733fb382de615/Full-API-Dump.json>)
+Generated using Version 0.565.0.5650363 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/11863a8c1a532449ffc7b93bc8421979ae4c2362/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/68e83985f9fcd6fa0a9b4088ea0733fb382de615>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/11863a8c1a532449ffc7b93bc8421979ae4c2362>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -74,6 +74,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ContextActionService
 - Controller
 - ControllerBase
+- ControllerSensor
 - ControllerService
 - CookiesService
 - CoreGui
@@ -302,6 +303,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Selection
 - SelectionHighlightManager
 - SelectionLasso
+- SensorBase
 - ServerReplicator
 - ServerScriptService
 - ServerStorage
