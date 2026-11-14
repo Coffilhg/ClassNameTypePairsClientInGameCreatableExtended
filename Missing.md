@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.619.0.6190508 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/21b4b88645e037c6edb0264169a47dcb04d25b0e/Full-API-Dump.json>)
+Generated using Version 0.620.0.6200463 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/b549e9e39dadcaba9cbb778b82bcfc6d3db6f642/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/21b4b88645e037c6edb0264169a47dcb04d25b0e>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/b549e9e39dadcaba9cbb778b82bcfc6d3db6f642>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -46,9 +46,13 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetService
 - AssetSoundEffect
 - AudioPages
+- Avatar2DGenerationJob
+- Avatar3DGenerationJob
 - AvatarChatService
 - AvatarCreationService
 - AvatarEditorService
+- AvatarGenerationJob
+- AvatarGenerationSession
 - AvatarImportService
 - BackpackItem
 - BadgeService
@@ -84,6 +88,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CollectionService
 - CommandInstance
 - CommandService
+- CommerceService
 - ConfigureServerService
 - ConnectivityService
 - Constraint
@@ -344,6 +349,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ScriptDebugger
 - ScriptDocument
 - ScriptEditorService
+- ScriptProfilerService
 - ScriptRegistrationService
 - ScriptRuntime
 - ScriptService
