@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.659.0.6590474 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/e7ef1b6835dd2c15697c90a393a076ca4af8dc5f/Full-API-Dump.json>)
+Generated using Version 0.660.0.6600646 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/079392394249ce218a11b2a029d7b86f70647483/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/e7ef1b6835dd2c15697c90a393a076ca4af8dc5f>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/079392394249ce218a11b2a029d7b86f70647483>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -413,6 +413,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StudioAssetService
 - StudioAttachment
 - StudioCallout
+- StudioCameraService
 - StudioData
 - StudioDeviceEmulatorService
 - StudioObjectBase
@@ -472,6 +473,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - UIDragDetectorService
 - UIGridStyleLayout
 - UILayout
+- UniqueIdLookupService
 - UnvalidatedAssetService
 - UserGameSettings
 - UserInputService
