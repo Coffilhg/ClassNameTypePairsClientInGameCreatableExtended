@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.734.0.7340915 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/ca7d6eed4aadddd385c095ff3ee84f7293c90dcb/Full-API-Dump.json>)
+Generated using Version 0.735.0.7351131 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/40aceb5e468c0c86c770656a0354dc1a22cc56dd/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/ca7d6eed4aadddd385c095ff3ee84f7293c90dcb>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/40aceb5e468c0c86c770656a0354dc1a22cc56dd>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -81,6 +81,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BaseWrap
 - BevelMesh
 - BodyMover
+- BranchService
 - Breakpoint
 - BrowserService
 - BubbleChatConfiguration
@@ -246,6 +247,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - InstanceAdornment
 - InstanceExtensionsService
 - InstanceFileSyncService
+- IntentService
 - InternalMessagingService
 - InternalMessagingServiceVerifier
 - InternalSyncService
@@ -349,6 +351,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PlatformCloudStorageService
 - PlatformFriendsService
 - PlatformLibraries
+- PlayerControlState
 - PlayerData
 - PlayerDataRecord
 - PlayerDataRecordConfig
@@ -444,6 +447,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ScriptProfilerService
 - ScriptRegistrationService
 - ScriptRuntime
+- ScriptScannerService
 - ScriptService
 - Selection
 - SelectionHighlightManager
