@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.611.0.6110432 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/c0334c06febdb6e27b0edf3e0bc39ec8bd800502/Full-API-Dump.json>)
+Generated using Version 0.612.0.6120532 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/08dd45a6b678751912c9218d0f2277655d9874c9/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/c0334c06febdb6e27b0edf3e0bc39ec8bd800502>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/08dd45a6b678751912c9218d0f2277655d9874c9>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -21,6 +21,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
 ### Unable to create an Instance of type "{ClassName}"
 - AccountService
+- ActivityHistoryService
 - AdService
 - AnalysticsSettings
 - AnalyticsService
@@ -291,6 +292,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PoseBase
 - PostEffect
 - ProcessInstancePhysicsService
+- ProjectFolderService
 - PublishService
 - QWidgetPluginGui
 - RbxAnalyticsService
@@ -451,7 +453,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VideoService
 - VirtualUser
 - VisibilityCheckDispatcher
-- VisibilityService
 - Visit
 - VoiceChatInternal
 - VoiceChatService
