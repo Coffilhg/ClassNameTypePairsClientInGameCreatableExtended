@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.569.2.5690484 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/29500f5711b5e1a1cf0bf119d4311916580add6a/Full-API-Dump.json>)
+Generated using Version 0.570.0.5700563-rc.1 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/1b981dc95192aa62bc145243bf9a69c45fd0c985/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/29500f5711b5e1a1cf0bf119d4311916580add6a>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/1b981dc95192aa62bc145243bf9a69c45fd0c985>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -81,7 +81,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CoreGui
 - CorePackages
 - CoreScript
-- CoreScriptBuilder
 - CoreScriptDebuggingManagerHelper
 - CoreScriptSyncService
 - CrossDMScriptChangeListener
@@ -281,6 +280,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReflectionMetadataMember
 - ReflectionMetadataProperties
 - ReflectionMetadataYieldFunctions
+- RemoteCursorService
 - RemoteDebuggerServer
 - RenderSettings
 - ReplicatedFirst
@@ -314,6 +314,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ServerScriptService
 - ServerStorage
 - ServiceProvider
+- ServiceVisibilityService
 - SessionService
 - SharedTableRegistry
 - ShorelineUpgraderService
