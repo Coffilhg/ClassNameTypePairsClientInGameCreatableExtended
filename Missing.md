@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.530.0.5300290 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/b59ca4152f1ceaedfd998eb1f7bc54002f6da63f/API-Dump.json>)
+Generated using Version 0.531.0.5310423 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/97d100426f1c7ae7b0d2e70aece2e2cc0abd7a0d/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/b59ca4152f1ceaedfd998eb1f7bc54002f6da63f>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/97d100426f1c7ae7b0d2e70aece2e2cc0abd7a0d>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -76,7 +76,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CoreScript
 - CoreScriptSyncService
 - CrossDMScriptChangeListener
-- CustomDspSoundEffect
+- CustomSoundEffect
 - DataModel
 - DataModelMesh
 - DataModelPatchService
