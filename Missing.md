@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.712.0.7120913 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/b579097593d51babf5206c27dfb902676433f591/Full-API-Dump.json>)
+Generated using Version 0.713.0.7130910 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/8f8ac87dc3a263238ddfad43dedc70b1077a96f1/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/b579097593d51babf5206c27dfb902676433f591>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/8f8ac87dc3a263238ddfad43dedc70b1077a96f1>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -59,7 +59,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetSoundEffect
 - AudioFocusService
 - AudioPages
-- AuroraHandle
 - AuroraScriptObject
 - AuroraScriptService
 - AuroraService
@@ -305,6 +304,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - OpenCloudService
 - OrderedDataStore
 - OutfitPages
+- OutputLink
 - PVAdornment
 - PVInstance
 - PackageLink
