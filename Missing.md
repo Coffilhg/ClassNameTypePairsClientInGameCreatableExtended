@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.737.0.7371584 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/28360dea4b90b35dc3fe9f829baae64fb6c50e75/Full-API-Dump.json>)
+Generated using Version 0.738.0.7381393 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/72a710d2555d78ccaf22fe10db90aaf98f8fdd60/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/28360dea4b90b35dc3fe9f829baae64fb6c50e75>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/72a710d2555d78ccaf22fe10db90aaf98f8fdd60>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -36,6 +36,9 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ActivityHistoryEventService
 - AdService
 - AnalyticsService
+- AnimatedImage
+- AnimatedImageService
+- AnimatedImageTrack
 - AnimationClip
 - AnimationClipProvider
 - AnimationFromVideoCreatorService
@@ -141,7 +144,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DataModel
 - DataModelDiff
 - DataModelMesh
-- DataModelPatchService
 - DataModelSession
 - DataStore
 - DataStoreInfo
@@ -308,6 +310,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MetaBreakpointManager
 - MicroProfilerService
 - ModerationService
+- MomentsService
 - Mouse
 - MouseService
 - MultipleDocumentInterfaceInstance
