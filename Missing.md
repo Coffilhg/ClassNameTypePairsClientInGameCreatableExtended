@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.554.1.5540506 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/51211f3de29588497ccbb804c2976b95c7e2dc02/API-Dump.json>)
+Generated using Version 0.555.0.5550872 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/bb9eaaec2cf900cd1304d83cbce1e4012fdc2e12/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/51211f3de29588497ccbb804c2976b95c7e2dc02>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/bb9eaaec2cf900cd1304d83cbce1e4012fdc2e12>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -378,7 +378,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VisibilityCheckDispatcher
 - VisibilityService
 - Visit
-- VoiceChannel
 - VoiceChatInternal
 - VoiceChatService
 - VoiceSource
