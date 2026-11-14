@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.710.0.7100702 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/2887079874a2cc2267277affca1bce1ca4e75588/Full-API-Dump.json>)
+Generated using Version 0.711.0.7110873 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/ceacedb89cc6804f5a4a8f582702281efb40d539/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/2887079874a2cc2267277affca1bce1ca4e75588>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/ceacedb89cc6804f5a4a8f582702281efb40d539>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -19,6 +19,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FlyweightService
 - NonReplicatedCSGDictionaryService
 ### The current thread cannot create '{ClassName}' (lacking capability RobloxScript)
+- AvatarAbilityRules
 - Noise
 - RTAnimationTracker
 - RelativeGui
@@ -57,6 +58,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetSoundEffect
 - AudioFocusService
 - AudioPages
+- AuroraHandle
 - AuroraScriptObject
 - AuroraScriptService
 - AuroraService
@@ -212,7 +214,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - GuiService
 - GuidRegistryService
 - HSRDataContentProvider
-- HandRigDescription
 - HandleAdornment
 - HandlesBase
 - HapticService
