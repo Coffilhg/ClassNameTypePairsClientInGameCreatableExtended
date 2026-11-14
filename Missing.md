@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.667.0.6670665 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/c99c722f8bbed5714d7cc05c604b68744d350f75/Full-API-Dump.json>)
+Generated using Version 0.668.0.6680659 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/73c13a09024646f8260eb75c41245c136b8bcf44/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/c99c722f8bbed5714d7cc05c604b68744d350f75>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/73c13a09024646f8260eb75c41245c136b8bcf44>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -214,6 +214,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - HttpService
 - ILegacyStudioBridge
 - IXPService
+- ImportSession
 - IncrementalPatchBuilder
 - InputObject
 - InsertService
@@ -393,6 +394,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - SelectionHighlightManager
 - SelectionLasso
 - SensorBase
+- SerializationService
 - ServerReplicator
 - ServerScriptService
 - ServerStorage
@@ -400,7 +402,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ServiceVisibilityService
 - SessionService
 - SharedTableRegistry
-- ShorelineUpgraderService
 - SlidingBallConstraint
 - SmoothVoxelsUpgraderService
 - SnippetService
