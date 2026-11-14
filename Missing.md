@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.674.0.6740785 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/02c4543a1e94d06ea6d3c74378957cfafad05bae/Full-API-Dump.json>)
+Generated using Version 0.675.0.6750711 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/04b1b18fbbf7418f63bbd4410ad3d588975dd946/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/02c4543a1e94d06ea6d3c74378957cfafad05bae>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/04b1b18fbbf7418f63bbd4410ad3d588975dd946>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -408,6 +408,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - SessionService
 - SharedTableRegistry
 - SlidingBallConstraint
+- SlimContentProvider
 - SmoothVoxelsUpgraderService
 - SnippetService
 - SocialService
@@ -461,6 +462,10 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TemporaryCageMeshProvider
 - TemporaryScriptService
 - Terrain
+- TerrainIterateOperation
+- TerrainModifyOperation
+- TerrainReadOperation
+- TerrainWriteOperation
 - TextBoxService
 - TextChatConfigurations
 - TextChatMessage
