@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.677.0.6770761 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/696e46dbf9f30108fe564a0598e211d6d8525e83/Full-API-Dump.json>)
+Generated using Version 0.678.0.6780751 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/77600aefc6b7d76195ce6e494b9cf12de839176a/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/696e46dbf9f30108fe564a0598e211d6d8525e83>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/77600aefc6b7d76195ce6e494b9cf12de839176a>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -165,6 +165,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ExperienceNotificationService
 - ExperienceService
 - ExperienceStateCaptureService
+- ExperienceStateRecordingService
 - ExplorerFilter
 - ExplorerFilterAutocompleter
 - ExplorerServiceVisibilityService
@@ -178,8 +179,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FacsImportData
 - Feature
 - FeatureRestrictionManager
-- FeedPages
-- FeedService
 - File
 - FlagStandService
 - FormFactorPart
@@ -349,6 +348,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PublishService
 - QWidgetPluginGui
 - RbxAnalyticsService
+- RecommendationPages
+- RecommendationService
 - ReflectionMetadata
 - ReflectionMetadataCallbacks
 - ReflectionMetadataClass
@@ -412,6 +413,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - SharedTableRegistry
 - SlidingBallConstraint
 - SlimContentProvider
+- SlimService
 - SmoothVoxelsUpgraderService
 - SnippetService
 - SocialService
