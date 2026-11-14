@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.572.0.5720484 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/097fa74c70aa36cac4dbb7e3d113d6d31ec1cf0a/Full-API-Dump.json>)
+Generated using Version 0.573.0.5730507-rc.1 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/cafaeab2f07248a334b352ab7987edb58d424d66/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/097fa74c70aa36cac4dbb7e3d113d6d31ec1cf0a>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/cafaeab2f07248a334b352ab7987edb58d424d66>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -26,6 +26,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AnimationClipProvider
 - AnimationFromVideoCreatorService
 - AnimationFromVideoCreatorStudioService
+- AnimationImportData
 - AnimationStreamTrack
 - AnimationTrack
 - AppStorageService
@@ -43,6 +44,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AvatarImportService
 - BackpackItem
 - BadgeService
+- BaseImportData
 - BasePart
 - BasePlayerGui
 - BaseScript
@@ -53,6 +55,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BrowserService
 - BubbleChatConfiguration
 - BulkImportService
+- CSGOptions
 - CacheableContentProvider
 - CalloutService
 - CatalogPages
@@ -123,6 +126,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FacialAnimationStreamingService
 - FacialAnimationStreamingServiceStats
 - FacialAnimationStreamingServiceV2
+- FacsImportData
 - Feature
 - File
 - FlagStandService
@@ -137,6 +141,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - GlobalDataStore
 - GlobalSettings
 - GoogleAnalyticsConfiguration
+- GroupImportData
 - GroupService
 - GuiBase
 - GuiBase2d
@@ -157,14 +162,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ILegacyStudioBridge
 - IXPService
 - ImageDataExperimental
-- ImporterAnimationSettings
-- ImporterBaseSettings
-- ImporterFacsSettings
-- ImporterGroupSettings
-- ImporterJointSettings
-- ImporterMaterialSettings
-- ImporterMeshSettings
-- ImporterRootSettings
 - IncrementalPatchBuilder
 - InputObject
 - InsertService
@@ -172,6 +169,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - InstanceAdornment
 - InternalSyncService
 - InventoryPages
+- JointImportData
 - JointInstance
 - JointsService
 - KeyboardService
@@ -198,6 +196,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MarketplaceService
 - MaterialGenerationService
 - MaterialGenerationSession
+- MaterialImportData
 - MaterialService
 - MemStorageConnection
 - MemStorageService
@@ -205,6 +204,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MemoryStoreSortedMap
 - MeshContentProvider
 - MeshDataExperimental
+- MeshImportData
 - MessageBusConnection
 - MessageBusService
 - MessagingService
@@ -287,6 +287,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReplicatedStorage
 - RobloxPluginGuiService
 - RobloxReplicatedStorage
+- RootImportData
 - RtMessagingService
 - RunService
 - RunningAverageItemDouble
@@ -401,6 +402,5 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Visit
 - VoiceChatInternal
 - VoiceChatService
-- VoiceSource
 - Workspace
 - WorldRoot
