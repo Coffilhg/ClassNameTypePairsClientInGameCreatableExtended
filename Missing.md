@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.615.1.6150607 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/9db83dce6a1ed15015e908dfd03232bad97d1ba7/Full-API-Dump.json>)
+Generated using Version 0.616.0.6160656 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/511fb1eb8bf2cbbdc83c924bf8a28bdc9e6175e0/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/9db83dce6a1ed15015e908dfd03232bad97d1ba7>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/511fb1eb8bf2cbbdc83c924bf8a28bdc9e6175e0>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -20,6 +20,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 ### The current thread cannot create '{ClassName}' (lacking capability RobloxScript)
 - Noise
 - TrackerStreamAnimation
+- VideoDeviceInput
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
 ### Unable to create an Instance of type "{ClassName}"
 - AccountService
@@ -440,11 +441,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - UnvalidatedAssetService
 - UserGameSettings
 - UserInputService
-- UserNotification
-- UserNotificationPayload
-- UserNotificationPayloadAnalyticsData
-- UserNotificationPayloadJoinExperience
-- UserNotificationPayloadParameterValue
 - UserService
 - UserSettings
 - UserStorageService
@@ -457,6 +453,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VirtualUser
 - VisibilityCheckDispatcher
 - Visit
+- VisualizationModeService
 - VoiceChatInternal
 - VoiceChatService
 - Workspace
