@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.526.0.5260426 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/a76878fe13436155277a5233915ee3276fb5e830/API-Dump.json>)
+Generated using Version 0.527.0.5270372 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/2535e037a377dd68d73d0b8938807bbd58b966cc/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/a76878fe13436155277a5233915ee3276fb5e830>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/2535e037a377dd68d73d0b8938807bbd58b966cc>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -147,7 +147,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ImporterMaterialSettings
 - ImporterMeshSettings
 - ImporterRootSettings
-- ImporterTextureSettings
 - IncrementalPatchBuilder
 - InputObject
 - InsertService
@@ -158,6 +157,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - JointsService
 - KeyboardService
 - KeyframeSequenceProvider
+- LSPFileSyncService
 - LSPService
 - LanguageService
 - LayerCollector
@@ -268,7 +268,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ScriptChangeService
 - ScriptCloneWatcher
 - ScriptCloneWatcherHelper
-- ScriptCloneWatcherHelperV2
 - ScriptContext
 - ScriptDebugger
 - ScriptRegistrationService
@@ -281,6 +280,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ServiceProvider
 - SessionService
 - SlidingBallConstraint
+- SnippetService
 - SocialService
 - SolidModelContentProvider
 - SoundEffect
