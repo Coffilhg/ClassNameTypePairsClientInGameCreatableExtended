@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.567.0.5670559 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/5f60bdc5cac8c51ae4fa9222b4496e7fe83925c9/Full-API-Dump.json>)
+Generated using Version 0.568.0.5680525 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/910a7a24bf53bb8bcde50519e67accd78b37c488/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/5f60bdc5cac8c51ae4fa9222b4496e7fe83925c9>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/910a7a24bf53bb8bcde50519e67accd78b37c488>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -38,6 +38,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetPatchSettings
 - AssetService
 - AssetSoundEffect
+- AudioPages
 - AvatarEditorService
 - AvatarImportService
 - BackpackItem
@@ -338,7 +339,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StudioAssetService
 - StudioData
 - StudioDeviceEmulatorService
-- StudioHighDpiService
 - StudioPublishService
 - StudioScriptDebugEventListener
 - StudioSdkService
