@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.576.0.5760523 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/29664da69e1b3ddf15eac3aeb0d19c2557497825/Full-API-Dump.json>)
+Generated using Version 0.577.0.5770506-rc.1 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/dfdabc9374957c3cc7dbdb6a2d730ffb619b7648/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/29664da69e1b3ddf15eac3aeb0d19c2557497825>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/dfdabc9374957c3cc7dbdb6a2d730ffb619b7648>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -55,7 +55,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BrowserService
 - BubbleChatConfiguration
 - BulkImportService
-- CSGOptions
 - CacheableContentProvider
 - CalloutService
 - CatalogPages
@@ -300,6 +299,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ScriptChangeService
 - ScriptCloneWatcher
 - ScriptCloneWatcherHelper
+- ScriptCommitService
 - ScriptContext
 - ScriptDebugger
 - ScriptDocument
@@ -346,6 +346,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StudioSdkService
 - StudioService
 - StudioTheme
+- StyleBase
+- StylingService
 - SurfaceGuiBase
 - SyncScriptBuilder
 - TaskScheduler
