@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.676.0.6760531 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/5c6e18e27cb429405d7514b1a5c71f888b205ddf/Full-API-Dump.json>)
+Generated using Version 0.677.0.6770761 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/696e46dbf9f30108fe564a0598e211d6d8525e83/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/5c6e18e27cb429405d7514b1a5c71f888b205ddf>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/696e46dbf9f30108fe564a0598e211d6d8525e83>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -276,6 +276,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MetaBreakpoint
 - MetaBreakpointContext
 - MetaBreakpointManager
+- Moderation
 - Mouse
 - MouseService
 - MultipleDocumentInterfaceInstance
