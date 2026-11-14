@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.732.0.7321040 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/42f744a776c61605cf1891474d34550cd355dd45/Full-API-Dump.json>)
+Generated using Version 0.733.0.7330989 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/c6e6d051dc803ad477d91069072e45db5c6a0863/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/42f744a776c61605cf1891474d34550cd355dd45>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/c6e6d051dc803ad477d91069072e45db5c6a0863>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -136,6 +136,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CrossDMScriptChangeListener
 - CustomSoundEffect
 - DataModel
+- DataModelDiff
 - DataModelMesh
 - DataModelPatchService
 - DataModelSession
@@ -287,6 +288,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MaterialService
 - MemStorageConnection
 - MemStorageService
+- MemoryStoreDistributedCounter
 - MemoryStoreHashMap
 - MemoryStoreHashMapPages
 - MemoryStoreQueue
