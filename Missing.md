@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.559.0.5590375 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/eb94649bfd5d6ad826a0a6b61e85cb17d4596897/API-Dump.json>)
+Generated using Version 0.560.0.5600365 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/129df844e1715d666e4cdfe3bbfba0ea91606699/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/eb94649bfd5d6ad826a0a6b61e85cb17d4596897>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/129df844e1715d666e4cdfe3bbfba0ea91606699>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -178,6 +178,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LegacyStudioBridge
 - Light
 - Lighting
+- LiveScriptingService
 - LocalDebuggerConnection
 - LocalStorageService
 - LocalizationService
@@ -302,6 +303,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - SessionService
 - ShorelineUpgraderService
 - SlidingBallConstraint
+- SmoothVoxelsUpgraderService
 - SnippetService
 - SocialService
 - SolidModelContentProvider
@@ -326,6 +328,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StudioHighDpiService
 - StudioPublishService
 - StudioScriptDebugEventListener
+- StudioSdkService
 - StudioService
 - StudioTheme
 - SurfaceGuiBase
