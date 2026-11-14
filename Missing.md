@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.687.0.6870815 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/0f38a26fb889c6611e04fdb273bb6661fa2a4f23/Full-API-Dump.json>)
+Generated using Version 0.688.0.6880858 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/18cf516732870c43bb2e38972ee4c5e16e0fb3ff/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/0f38a26fb889c6611e04fdb273bb6661fa2a4f23>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/18cf516732870c43bb2e38972ee4c5e16e0fb3ff>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -162,6 +162,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - EventIngestService
 - ExampleService
 - ExampleV2Service
+- ExecutedRemoteCommand
 - ExperienceAuthService
 - ExperienceNotificationService
 - ExperienceService
@@ -367,6 +368,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReflectionMetadataProperties
 - ReflectionMetadataYieldFunctions
 - ReflectionService
+- RemoteCommandService
 - RemoteCursorService
 - RemoteDebuggerServer
 - RenderSettings
@@ -424,6 +426,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - SolidModelContentProvider
 - SoundEffect
 - SoundService
+- SoundShimService
 - SpawnerService
 - StackFrame
 - StandardPages
