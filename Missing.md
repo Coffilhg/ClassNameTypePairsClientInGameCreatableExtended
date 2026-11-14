@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.524.0.5240408 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/4e6c5b166b38e1d720f3ccc4695779f7da8f5d97/API-Dump.json>)
+Generated using Version 0.525.0.5250378 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/2886e94aff212265d69f1f299c66b250d23d817d/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/4e6c5b166b38e1d720f3ccc4695779f7da8f5d97>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/2886e94aff212265d69f1f299c66b250d23d817d>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -105,6 +105,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DynamicRotate
 - EmotesPages
 - EventIngestService
+- FaceAnimatorService
 - FaceInstance
 - Feature
 - File
@@ -268,6 +269,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ScriptChangeService
 - ScriptCloneWatcher
 - ScriptCloneWatcherHelper
+- ScriptCloneWatcherHelperV2
 - ScriptContext
 - ScriptDebugger
 - ScriptRegistrationService
