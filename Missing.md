@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.631.1.6310472 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/eae7bf6af619bbf9d2fff524dd0b30944179548e/Full-API-Dump.json>)
+Generated using Version 0.632.0.6320623 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/9f43a0b49e1069ad6bdd8927c4a3f46901cbb237/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/eae7bf6af619bbf9d2fff524dd0b30944179548e>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/9f43a0b49e1069ad6bdd8927c4a3f46901cbb237>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -19,6 +19,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - NonReplicatedCSGDictionaryService
 ### The current thread cannot create '{ClassName}' (lacking capability RobloxScript)
 - Noise
+- RTAnimationTracker
 - TrackerStreamAnimation
 - VideoDeviceInput
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
