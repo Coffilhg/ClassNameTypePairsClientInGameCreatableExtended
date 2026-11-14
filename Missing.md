@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.580.0.5800572 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/64ac414a89c46742695c4b7894d5bdc7996be2f4/Full-API-Dump.json>)
+Generated using Version 0.581.0.5810563 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f239c8c693f754fca2667050231218861f8b9b1f/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/64ac414a89c46742695c4b7894d5bdc7996be2f4>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f239c8c693f754fca2667050231218861f8b9b1f>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -139,6 +139,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - GamepadService
 - GenericSettings
 - Geometry
+- GeometryService
 - GlobalDataStore
 - GlobalSettings
 - GoogleAnalyticsConfiguration
@@ -223,6 +224,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - NetworkSettings
 - NotificationService
 - OmniRecommendationsService
+- OpenCloudService
 - OrderedDataStore
 - OutfitPages
 - PVAdornment
@@ -289,6 +291,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReplicatedStorage
 - RobloxPluginGuiService
 - RobloxReplicatedStorage
+- RomarkService
 - RootImportData
 - RtMessagingService
 - RunService
