@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.713.0.7130910 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/8f8ac87dc3a263238ddfad43dedc70b1077a96f1/Full-API-Dump.json>)
+Generated using Version 0.714.0.7141089 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/9ceac0c47e350e61b4e61b77f1adc165edb37b76/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/8f8ac87dc3a263238ddfad43dedc70b1077a96f1>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/9ceac0c47e350e61b4e61b77f1adc165edb37b76>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -120,7 +120,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ControllerBase
 - ControllerSensor
 - ControllerService
-- ConversationalAIAcceptanceService
 - CookiesService
 - CoreGui
 - CoreGuiConfiguration
@@ -156,6 +155,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DebuggerManager
 - DebuggerUIService
 - DebuggerVariable
+- DeferredAssetManagerService
 - DeviceIdService
 - DockWidgetPluginGui
 - DraftsService
@@ -227,6 +227,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - HttpService
 - ILegacyStudioBridge
 - IXPService
+- ImageScreenCaptureService
 - ImportSession
 - IncrementalPatchBuilder
 - InputObject
@@ -235,6 +236,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - InstanceAdornment
 - InstanceExtensionsService
 - InstanceFileSyncService
+- InternalMessagingService
 - InternalSyncService
 - InventoryPages
 - JointImportData
@@ -465,10 +467,12 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StudioAttachment
 - StudioCallout
 - StudioCameraService
+- StudioCaptureService
 - StudioData
 - StudioDeviceEmulatorService
 - StudioObjectBase
 - StudioPublishService
+- StudioScreenshotCapture
 - StudioScriptDebugEventListener
 - StudioSdkService
 - StudioService
