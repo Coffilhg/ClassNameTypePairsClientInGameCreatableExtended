@@ -2,7 +2,7 @@
 name = "coffilhg/classnametypepairsclientingamecreatableextended"
 author = "Coffilhg"
 content_root = "src"
-version = "609.0.6090385"
+version = "610.0.6100472"
 license = "Unlicense"
 
 [dependencies]
