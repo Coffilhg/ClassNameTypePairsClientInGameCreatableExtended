@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.600.1.6000716 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/160f7ff17bd75ca4b243ab832ca6ce7d5f54747f/Full-API-Dump.json>)
+Generated using Version 0.601.0.6010507 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/efef185bc3b65d5cc8d57ce006e130e399dedbc1/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/160f7ff17bd75ca4b243ab832ca6ce7d5f54747f>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/efef185bc3b65d5cc8d57ce006e130e399dedbc1>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -50,6 +50,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - BaseImportData
 - BasePart
 - BasePlayerGui
+- BaseRemoteEvent
 - BaseScript
 - BaseWrap
 - BevelMesh
@@ -123,9 +124,9 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - DockWidgetPluginGui
 - DraftsService
 - DraggerService
-- DynamicImage
 - DynamicMesh
 - DynamicRotate
+- EditableImage
 - EmotesPages
 - EngineAPICloudProcessingService
 - EventIngestService
