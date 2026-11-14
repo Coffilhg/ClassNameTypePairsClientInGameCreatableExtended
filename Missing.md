@@ -2,13 +2,15 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.714.0.7141089 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/9ceac0c47e350e61b4e61b77f1adc165edb37b76/Full-API-Dump.json>)
+Generated using Version 0.715.0.7151115 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/bc23e553dc16ac3cb0afc383e20987f5fb702e27/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/9ceac0c47e350e61b4e61b77f1adc165edb37b76>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/bc23e553dc16ac3cb0afc383e20987f5fb702e27>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
-### *The current thread cannot create '{ClassName}' (lacking capability InternalTest)* ~ CustomLog
+### The current thread cannot create '{ClassName}' (lacking capability InternalTest)
+- CustomLog
+- RealtimeMedia
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
 ### The current thread cannot create '{ClassName}' (lacking capability Plugin)
 - PluginAction
@@ -346,6 +348,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PlayerViewService
 - Players
 - Plugin
+- PluginConnection
+- PluginConnectionService
 - PluginDebugService
 - PluginDragEvent
 - PluginGui
@@ -362,6 +366,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PolicyService
 - PoseBase
 - PostEffect
+- ProceduralBehaviorSchedulerService
 - ProcessInstancePhysicsService
 - PublishService
 - QWidgetPluginGui
@@ -552,6 +557,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VideoSampler
 - VideoScreenCaptureService
 - VideoService
+- VirtualInput
 - VirtualUser
 - VisibilityCheckDispatcher
 - Visit
