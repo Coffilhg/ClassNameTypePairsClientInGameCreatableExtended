@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.536.2.5360459 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/3706eea7db14eb00c0719929b5499f54e33f9015/API-Dump.json>)
+Generated using Version 0.538.0.5380364 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/55e011f023d153155a5a5c86535d11df3e2bd873/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/3706eea7db14eb00c0719929b5499f54e33f9015>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/55e011f023d153155a5a5c86535d11df3e2bd873>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -18,7 +18,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 ### *The current thread cannot create '{ClassName}' (lacking capability RobloxScript)* ~ TrackerStreamAnimation
 ### *The current thread cannot create '{ClassName}' (lacking capability WritePlayer)* ~ Player
 ### Unable to create an Instance of type "{ClassName}"
-- ABTestService
 - AdService
 - AnalysticsSettings
 - AnalyticsService
@@ -36,6 +35,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AssetImportSession
 - AssetManagerService
 - AssetService
+- AssetSoundEffect
 - AvatarEditorService
 - AvatarImportService
 - BackpackItem
@@ -111,6 +111,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - EventIngestService
 - FaceAnimatorService
 - FaceInstance
+- FacialAnimationRecordingService
 - FacialAnimationStreamingService
 - Feature
 - File
@@ -231,6 +232,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PluginDragEvent
 - PluginGui
 - PluginGuiService
+- PluginManagementService
 - PluginManager
 - PluginManagerInterface
 - PluginMenu
@@ -265,7 +267,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ReplicatedStorage
 - RobloxPluginGuiService
 - RobloxReplicatedStorage
-- RomarkSoundEffect
 - RtMessagingService
 - RunService
 - RunningAverageItemDouble
