@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.565.0.5650363 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/11863a8c1a532449ffc7b93bc8421979ae4c2362/Full-API-Dump.json>)
+Generated using Version 0.566.0.5660545 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/fadc0175a44629b4aad4a6590a5fa1f50126f096/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/11863a8c1a532449ffc7b93bc8421979ae4c2362>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/fadc0175a44629b4aad4a6590a5fa1f50126f096>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -121,6 +121,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - FaceInstance
 - FacialAnimationRecordingService
 - FacialAnimationStreamingService
+- FacialAnimationStreamingServiceStats
 - FacialAnimationStreamingServiceV2
 - Feature
 - File
@@ -195,6 +196,8 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LuauScriptAnalyzerService
 - ManualSurfaceJointInstance
 - MarketplaceService
+- MaterialGenerationService
+- MaterialGenerationSession
 - MaterialService
 - MemStorageConnection
 - MemStorageService
