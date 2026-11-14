@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.668.0.6680659 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/73c13a09024646f8260eb75c41245c136b8bcf44/Full-API-Dump.json>)
+Generated using Version 0.669.0.6690660 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/c769b4a75322ab1fdd08a31597a39f8dc6a36f0f/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/73c13a09024646f8260eb75c41245c136b8bcf44>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/c769b4a75322ab1fdd08a31597a39f8dc6a36f0f>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -169,6 +169,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ExplorerServiceVisibilityService
 - FaceAnimatorService
 - FaceInstance
+- FacialAgeEstimationService
 - FacialAnimationRecordingService
 - FacialAnimationStreamingServiceStats
 - FacialAnimationStreamingServiceV2
@@ -444,6 +445,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - StylingService
 - SurfaceGuiBase
 - SyncScriptBuilder
+- SystemThemeService
 - TaskScheduler
 - TeamCreateData
 - TeamCreatePublishService
