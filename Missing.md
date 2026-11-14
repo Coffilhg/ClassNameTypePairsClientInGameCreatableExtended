@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.604.0.6040508 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/3e665f1db103d434f5f0df5cc83aa366d31074f3/Full-API-Dump.json>)
+Generated using Version 0.605.0.6050654 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/adacffb1168a4ef5f6e112ab7a41694f53968336/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/3e665f1db103d434f5f0df5cc83aa366d31074f3>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/adacffb1168a4ef5f6e112ab7a41694f53968336>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -134,6 +134,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ExperienceAuthService
 - ExperienceNotificationService
 - ExperienceService
+- ExperienceStateCaptureService
 - FaceAnimatorService
 - FaceInstance
 - FacialAnimationRecordingService
@@ -216,6 +217,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - MemStorageConnection
 - MemStorageService
 - MemoryStoreHashMap
+- MemoryStoreHashMapPages
 - MemoryStoreQueue
 - MemoryStoreSortedMap
 - MeshContentProvider
@@ -261,6 +263,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PlaceStatsService
 - PlacesService
 - Platform
+- PlatformCloudStorageService
 - PlatformFriendsService
 - PlayerEmulatorService
 - PlayerGui
