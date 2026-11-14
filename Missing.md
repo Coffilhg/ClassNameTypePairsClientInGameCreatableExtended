@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.651.1.6510840 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/7f7fb27f528f5ad46cb4db17f18d410d0c063e10/Full-API-Dump.json>)
+Generated using Version 0.653.0.6530693 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/acd553b930d86c5f5bd4d5a8f766d9284e31d189/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/7f7fb27f528f5ad46cb4db17f18d410d0c063e10>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/acd553b930d86c5f5bd4d5a8f766d9284e31d189>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -26,6 +26,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 ### Unable to create an Instance of type "{ClassName}"
 - AccountService
 - AchievementService
+- ActivityHistoryEventService
 - AdService
 - AnalysticsSettings
 - AnalyticsService
@@ -55,6 +56,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AvatarCreationService
 - AvatarEditorService
 - AvatarImportService
+- AvatarPreloader
 - BackpackItem
 - BadgeService
 - BanHistoryPages
@@ -155,6 +157,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ExperienceStateCaptureService
 - ExplorerFilter
 - ExplorerFilterAutocompleter
+- ExplorerServiceVisibilityService
 - FaceAnimatorService
 - FaceInstance
 - FacialAnimationRecordingService
@@ -231,6 +234,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - LuaSourceContainer
 - LuaWebService
 - LuauScriptAnalyzerService
+- MLModelDeliveryService
 - ManualSurfaceJointInstance
 - MarketplaceService
 - MaterialGenerationService
@@ -281,6 +285,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - PausedState
 - PausedStateBreakpoint
 - PausedStateException
+- PerformanceControlService
 - PermissionsService
 - PhysicsService
 - PhysicsSettings
