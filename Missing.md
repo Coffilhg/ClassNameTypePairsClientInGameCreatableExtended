@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.685.0.6850796 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/c74c1322ce498efa573d9ceafcfe0f9a65aa1216/Full-API-Dump.json>)
+Generated using Version 0.686.0.6860866 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/2d88e70bc98988562182693443ea761dfe8746d0/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/c74c1322ce498efa573d9ceafcfe0f9a65aa1216>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/2d88e70bc98988562182693443ea761dfe8746d0>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -42,6 +42,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - Annotation
 - AnnotationsService
 - AppLifecycleObserverService
+- AppRatingPromptService
 - AppStorageService
 - AppUpdateService
 - AssetCounterService
@@ -61,7 +62,6 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AvatarCreationService
 - AvatarEditorService
 - AvatarImportService
-- AvatarPreloader
 - AvatarSettings
 - BackpackItem
 - BadgeService
@@ -530,6 +530,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - VoiceChatService
 - WebSocketClient
 - WebSocketService
+- WebStreamClient
 - WebViewService
 - Workspace
 - WorkspaceAnnotation
