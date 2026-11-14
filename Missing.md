@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.560.0.5600365 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/129df844e1715d666e4cdfe3bbfba0ea91606699/API-Dump.json>)
+Generated using Version 0.561.0.5610360 of API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/f7e84c9eb8d9fb28fa9278f2f0f85cda4fc83757/API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/129df844e1715d666e4cdfe3bbfba0ea91606699>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/f7e84c9eb8d9fb28fa9278f2f0f85cda4fc83757>
 
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
 ### *The current thread cannot create '{ClassName}' (lacking capability LocalUser)* ~ DebuggerWatch
@@ -79,6 +79,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - CorePackages
 - CoreScript
 - CoreScriptBuilder
+- CoreScriptDebuggingManagerHelper
 - CoreScriptSyncService
 - CrossDMScriptChangeListener
 - CustomSoundEffect
@@ -295,6 +296,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - ScriptRegistrationService
 - ScriptService
 - Selection
+- SelectionHighlightManager
 - SelectionLasso
 - ServerReplicator
 - ServerScriptService
