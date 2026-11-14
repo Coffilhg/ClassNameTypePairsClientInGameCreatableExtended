@@ -2,9 +2,9 @@
 
 # Run context: "ClientInGame"
 
-Generated using Version 0.711.0.7110873 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/ceacedb89cc6804f5a4a8f582702281efb40d539/Full-API-Dump.json>)
+Generated using Version 0.712.0.7120913 of Full-API-Dump.json (<https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/b579097593d51babf5206c27dfb902676433f591/Full-API-Dump.json>)
 
-The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/ceacedb89cc6804f5a4a8f582702281efb40d539>
+The Version is taken from the name of the commit <https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/b579097593d51babf5206c27dfb902676433f591>
 
 ### *Internal Permission is required for this feature.* ~ InternalSyncItem
 ### *ParabolaAdornment may only be instantiated by CoreScripts at this time* ~ ParabolaAdornment
@@ -43,6 +43,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - AnimationTrack
 - Annotation
 - AnnotationsService
+- AppAgeSignalsService
 - AppLifecycleObserverService
 - AppRatingPromptService
 - AppStorageService
@@ -203,6 +204,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - GeometryService
 - GlobalDataStore
 - GlobalSettings
+- GongService
 - GroupImportData
 - GroupService
 - GuiBase
@@ -495,6 +497,7 @@ The Version is taken from the name of the commit <https://github.com/MaximumADHD
 - TerrainModifyOperation
 - TerrainReadOperation
 - TerrainWriteOperation
+- TestCase
 - TextBoxService
 - TextChatConfigurations
 - TextChatMessage
